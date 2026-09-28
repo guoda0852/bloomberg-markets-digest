@@ -1,0 +1,149 @@
+{
+  "updated_at": "2026-09-29T07:50:29+08:00",
+  "items": [
+    {
+      "symbol": "^GSPC",
+      "price": 7683.69,
+      "change_pct": -0.77,
+      "currency": "USD",
+      "name": "标普500",
+      "group": "美股"
+    },
+    {
+      "symbol": "^IXIC",
+      "price": 26820.38,
+      "change_pct": -0.92,
+      "currency": "USD",
+      "name": "纳斯达克",
+      "group": "美股"
+    },
+    {
+      "symbol": "^DJI",
+      "price": 51481.51,
+      "change_pct": -0.67,
+      "currency": "USD",
+      "name": "道琼斯",
+      "group": "美股"
+    },
+    {
+      "symbol": "^HSI",
+      "price": 24510.09,
+      "change_pct": -1.01,
+      "currency": "HKD",
+      "name": "恒生指数",
+      "group": "亚太"
+    },
+    {
+      "symbol": "000001.SS",
+      "price": 3888.37,
+      "change_pct": -1.22,
+      "currency": "CNY",
+      "name": "上证指数",
+      "group": "亚太"
+    },
+    {
+      "symbol": "^N225",
+      "price": 66364.2,
+      "change_pct": 1.3,
+      "currency": "JPY",
+      "name": "日经225",
+      "group": "亚太"
+    },
+    {
+      "symbol": "^GDAXI",
+      "price": 25408.64,
+      "change_pct": 0.56,
+      "currency": "EUR",
+      "name": "德国DAX",
+      "group": "欧洲"
+    },
+    {
+      "symbol": "^FTSE",
+      "price": 10695.3,
+      "change_pct": 0.14,
+      "currency": "GBP",
+      "name": "英国富时100",
+      "group": "欧洲"
+    },
+    {
+      "symbol": "GC=F",
+      "price": 4159.8,
+      "change_pct": -3.74,
+      "currency": "USD",
+      "name": "黄金",
+      "group": "商品"
+    },
+    {
+      "symbol": "SI=F",
+      "price": 61.2,
+      "change_pct": -4.74,
+      "currency": "USD",
+      "name": "白银",
+      "group": "商品"
+    },
+    {
+      "symbol": "CL=F",
+      "price": 93.21,
+      "change_pct": 0.87,
+      "currency": "USD",
+      "name": "WTI原油",
+      "group": "商品"
+    },
+    {
+      "symbol": "BZ=F",
+      "price": 98.6,
+      "change_pct": -5.48,
+      "currency": "USD",
+      "name": "布伦特原油",
+      "group": "商品"
+    },
+    {
+      "symbol": "CNY=X",
+      "price": 6.71,
+      "change_pct": -0.04,
+      "currency": "CNY",
+      "name": "美元/人民币",
+      "group": "外汇"
+    },
+    {
+      "symbol": "EURUSD=X",
+      "price": 1.14,
+      "change_pct": -0.04,
+      "currency": "USD",
+      "name": "欧元/美元",
+      "group": "外汇"
+    },
+    {
+      "symbol": "JPY=X",
+      "price": 157.33,
+      "change_pct": -0.09,
+      "currency": "JPY",
+      "name": "美元/日元",
+      "group": "外汇"
+    },
+    {
+      "symbol": "^TNX",
+      "price": 5.24,
+      "change_pct": 1.08,
+      "currency": "USD",
+      "name": "美10年期国债收益率",
+      "group": "债券"
+    },
+    {
+      "symbol": "^VIX",
+      "price": 16.07,
+      "change_pct": 8.07,
+      "currency": "USD",
+      "name": "VIX恐慌指数",
+      "group": "债券"
+    },
+    {
+      "symbol": "BTC-USD",
+      "price": 83484.31,
+      "change_pct": -1.15,
+      "currency": "USD",
+      "name": "比特币",
+      "group": "加密"
+    }
+  ]
+}
