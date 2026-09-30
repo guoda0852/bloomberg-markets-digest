@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-09-29T08:11:50+08:00",
+  "updated_at": "2026-09-30T09:48:08+08:00",
   "items": [
     {
-      "title": "24/7 Stock Trading Is About to Test Financial Markets",
-      "title_zh": "24/7股票交易即将考验金融市场",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJUbW5INGltS3JuZW1Od3R6RWRydmRHRWRGMlFyZF9vczJQcjRiRlB0SWsyZ0hWcnZtaWNEdGEycFhwZzdYdlVNSGxiQlJFZ0pHcFpJeHFsOTVaQVpJWVZxUW9TWHp0d2JiY0J4VVQzZEdBaXB0U1l1X05Zd2l3aE9Ybk14STBTOFZITDJ6NjIzVFZfczhHZDZSZWcxTGx1YkFPWVB6TQ?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 13:46:21 GMT",
+      "title": "US 30-Year Treasury Yield Rises to Highest Level Since 2002",
+      "title_zh": "美国30年期国债收益率升至2002年以来最高水平",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkxuUGpXckUxZGVhS04tUEptRlZmUWc1Qm1ZbU9QeW9IRGNPekQ2U0lROW5QcDJWMWJla1lwYy1oSWoxcXhVYjdSOXRac3NwR3JTUVk3MDgzXzkwWlFBelBEQ0Z6UTgtOUstQnVHZEMxUmhBc01lOWhCdGFpOTMydHJQSWV1YXc2ZVlneDNJQzJPSlpMc1JMWDA3LVdaTllWZ2tteUNiaW9OOGU4ZHNDcXhB?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 14:34:23 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Barclays Says US 30-Year Yield Can Reach 6% in Productivity Boom",
+      "title_zh": "巴克莱表示，随着生产力的繁荣，美国 30 年期国债收益率可达到 6%",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDRFRjBaaVY0Rm5XODZoemZkUjZQMkdkdWdHY3BDaWhuc0d4SEJOOFkzWmtac1BKNDZ0R3VYQTRMRXNWaEl2NmVJRVpaSDh3VkVrV1QwZjg1T2tzT21LTk9HM2VhVklPNjdTTFVpS1ZnZlJlWkVIUkN0czJwUkFRejBha0dHZlFYdWh1UUhQUndKY3pOQ3dOTl83VkV6eHo3bXpGVDNsMld0MG9UeE83Z0JYRVU?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 15:28:03 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
+      "title_zh": "据称，一些 Oura IPO 投资者以估值为由推迟IPO",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU29JVDZXLUE2UWszQjRuQXlxMndETkE1cEFpMnlXNmxwUGU5a25LQzFVRnZUVFNwbS1vQ3BScXRQOXNmWGc4MkJ1U1VSTE96TnpwRW5IVDJnSHFtRmFnTXV1aTNSR1BnZnJlbFNFRkR4UC1TTjZwQjZCZjFpeHhsNnNncjBzal9MMVR5RU1MNWxOV1lXSEhEejZIcUhFUGhCZWtrdm1ZcUR5RUhZaHBqSUNycUU?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 18:01:50 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Smart Ring Maker Oura Becomes Latest Company to Delay US IPO",
+      "title_zh": "智能戒指制造商 Oura 成为最新一家推迟美国 IPO 的公司",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWFQT09lTTlhTTZ1aEg1WnBaVUhHVGhEVnNNRU9TTTZQMmVwMnR2S0Ywd2tYTE4zRFk4Z081NWROWXZUS25wb3JyeFJQUElWOURrM1kxWjhqbGxRODdmR1JGNWdpR1FHRERVM1E0cllCN1FNcDFMNmo4UEx1WmFHVHU4WG1TSVlVcGYwX0owN2xEd1EyUUNKRENGcE8zNWtXZE51MW5yTGE1Rm9ZVjhjOExB?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 12:53:25 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "US Stock Futures Rise as Traders Await Key Economic Data",
+      "title_zh": "交易员等待关键经济数据，美国股指期货上涨",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0ZHQkNRVjA5cjk0MThzZ2otamgxbXl6N002VWdZS0VwS2tjMTRJY3N0cUtOYVdiQVZMNG5obDV0RDRYMVBxTk9qVUpEakFoaVh2NXBKS0l1SXZuS3R1OVRPa0E0eFdnV1h0ZWlyWmVGYW9oRmRrbXVGd3p5N1Y0TjVTQ1Q0a0Z1dkFhOV9WNEVKZEVHQnFiejZhYld6V1FnTnB1aDdVZ0V3dU0?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 20:28:41 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Susquehanna Says It Will Settle With Alleged Insider Traders",
+      "title_zh": "萨斯奎哈纳表示将与涉嫌内幕交易者达成和解",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemZKcWxCUGhSWmtSckFUM0lhVzNDbnBtZ2k1VDBCRS1uVjk3NWpzUzBueEpwMElzZWsyM3FSVFlobWxjc2JfRGt4dEl4U0NGLXktNS1hOTB3RFY3V3BFN3N6YjFpV1FtNmh2SEFSN0ViTk8xd0pQYTlqc2N5M0IwOThJd044Z1NPWm1OLWhUbVVYU0dmZ2dGX3BBWkFDS25feVBTRl9tRUN5TnBaMmZuRg?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 16:51:37 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "US Consumer Confidence Plunges to Lowest Level Since 2014",
+      "title_zh": "美国消费者信心跌至2014年以来最低水平",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMklEaXpfRldVcDRCTDRWOGx3VDBkSXRvcFI1bjVEaDlHSGViRmFGZGJMek5EQU9sblRzdWZ6ZGE4VFRrLXlrLVJ1WENPR3RtRDUxMERQRGNYVVRqWnFFX0pDWkVSb0U3azZINEZ4bzJHbUtxSl9LVVdnWXRNdGVvTWRtUGxVZEJKeUhHS0k5eHJLRWZsMVZiXzZmaW9DaFNTQjhJTnFYUFhSRFB3?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 14:55:26 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Stocks Fall as Long-Term Yields Hit 24-Year High: Markets Wrap",
+      "title_zh": "长期收益率触及 24 年高点，股市下跌：市场结束",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5",
+      "pub_date": "Mon, 28 Sep 2026 22:11:04 GMT",
       "source": "Bloomberg.com"
     },
     {
@@ -16,73 +65,24 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Bonds Are on the Cusp of Sending a Distress Signal on Economy",
-      "title_zh": "债券即将向经济发出求救信号",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFczWFlPMDBDdk5RczF6VmlaUkRNd3h4Rl9vcEFlR1gxSE5MTVIyckliYWEyVG5JLVVmREZrV09xQVE0MHRzelZ2cmE5Yk9fdElhLVJCdHhMb1J2MFZZU2wwOFAwVnhLd3lKdjl1RTNXTHBvX0lwZkNWRV9BcDJaMTEtdVNfRFduNm1JVWU2VHJDalB1RTFZUlpjVTBuNmpYaWJpSGJzcnZlR0FuYURhZ2h5TV9uQQ?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 23:56:32 GMT",
+      "title": "A $23 Trillion Market Swayed SoftBank in Hunt for More AI Debt",
+      "title_zh": "23万亿美元的市场影响软银寻求更多人工智能债务",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFdydE9lVHl4bmFHWExnTGxWci1pOUtBVlY2S05vVkwydDhWWFozWGU3cVY4dGVfUFlyTkZKczhUaHVGS3NNV0hqQmFRZFZzaTdlRG9CdjVvVjlpSmlqSlZha2s2aWltVk1NcWtCdGNqdTY4M3FkX3FwamNON0t5TWFKNjEwcVdPTGE3R3gtSE9SU2Qycmk1QlJUZXEtNWNIS2I1UERGVVAtNVQ0aEdQS0lB?oc=5",
+      "pub_date": "Mon, 28 Sep 2026 14:17:12 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Soaring Yields Lead Traders to Snap Up Options on BlackRock ETFs",
-      "title_zh": "收益率飙升导致交易者抢购贝莱德 ETF 期权",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMldoWFJ0MEtCTnpMU1U1ZXZ3V3Z3cDIxVms0d3p3akFkS2F4b0xZbDlaNmd6QUlUMHc5d1FQelZzOHVVc1gtWHFEeUQ2UEZZdXNXSkpXZG5lQUtTS2w3ODJjd3U0QWJTeEtKZE9KNkpTTXlCeWRxazl3SkdlUXB0clV6M3NfemFoXzZjTURXNEs4WUFMaEY4dmxUQVJQdkRPNWFSUUxMNlRjb01YMERtNU5USVdVQQ?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 20:20:05 GMT",
+      "title": "Muni Bonds Set for Worst Month Since 1987 on Inflation Angst",
+      "title_zh": "由于通胀担忧，市政债券将迎来 1987 年以来最糟糕的一个月",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXAzZXA3d3pRdHpZSEtRaklzQ25qN3lmc1BmaDRRdGRjT280d3doLUhDaVVweU9wcTNtOFZsVDd2UnU1YkJzbmxlWmFhaXFoMmhIODZjbEN3N3F4eHR4VHFGQ0VxNkZUYU5oVHNFWWNPWTB2T3BfX2puMmFOZDFRcmtJa09fNWRHQjZtV1VkMmVHbjFPT2Y5N1BLaHR4VG0tNlRoLTJyZnFQR2ZBN2xaV0tPLUFjaHZYQmwyc05wYw?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 13:50:06 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Man Group Says 5.5% Yields Risk Cracking AI Capex, US Consumer",
-      "title_zh": "英仕曼集团称 5.5% 的收益率将打破美国消费者 AI 资本支出的风险",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWRaMlFWLTUzdjhUdl9XMXdtNGJ3YmFBNllVR1B5UzFBLXhQbmVtbnp6MThRREhTU2hqUTRpV1JkZkljd3BvZWtOYzl0VUpJOHBrOF80SEY0bTRlOTZ1UG8xSjFIWHhZblR0UlJCZ3VELWpFWkNwTlJTTlpRWEJJLTNuaVJNaE9qd3ljbmo2T3hlQzJFcWRaZkI4dXFqQ1VLTHRGaXNYZ2lERXZ3cElBRg?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 16:56:21 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Goldman Says High-Yield Debt Deluge Is Overwhelming Investors",
-      "title_zh": "高盛称高收益债务泛滥令投资者不堪重负",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmNiRmFCMjY4dDFIR1BiaVdEcHJvZ1FveDUtY2JKWmw2ZHg5VF9jRnpIalhJTVV4SWdWTzI5OFNLaHlaR1dIS2Q1bUtFN2lrQVEzb2UwME9Db1A4WUR4aE42Z196V0tJaU5uX3U5ekhCRW1zSlk0TGRHbnNWZ1JFeDdRSURCMlN6a01rRDlRZmFpZUs1YTEtTC0xVmRMa0pCZWxBaG5FZVhmOUZ1SjV0ejZ3?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 19:15:12 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
-      "title_zh": "Nvidia 推出旨在阻止人工智能代理出错的系统",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXp5U1NScVBhb29ldkZHSmNLS1pYVHBvRGhXTHNuSDh2QXpkY2hUeDBqTjBFekpaOVA4YW9vcEo0endNWjhDb2dSQ0V1NVJGNTZUMEowT0dlX2liaEE3VmV0UGtpdHRHNGhvSUlERTkyY3BaU0o3cUhCdlktdUxOcHljY21yTUY3ekJoclh2SWJQd0kwV05ua0ItdzNkTklTS25YWUU2ZkZ5RFRNUC03bEp5Wko?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 09:00:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "JPMorgan Traders Flip to Bullish View on US Stocks Ahead of Jobs Report",
-      "title_zh": "摩根大通交易员在就业报告发布前转向看涨美国股市",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDJjUkdBbzhoRFNsTnBWX0pLbnFCbDBZcjRVSmpVT0JFUmFCeTBQU2QxQmdTOUFpMWNuT1lvYmZtSnlLSkFudWRJeURBbmZBSm1XaXFzYmpqajhLRXlvSjlWemtwU0lXNHBUVmctcVdIb0gtZmctMUEwQ2YzeTZ6M2FCbmhnTkp6UGRaYlpVN1lpSjdEcGVsTFZyNFIxZ2JmLUFZZkRDSHBkZldDbnZfM1liYTBnTjhqMl9XRWhteHNhSUhj?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 13:26:47 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Stocks Decline as Middle East Stalemate Pushes Oil Higher",
-      "title_zh": "中东僵局推高油价，美国股市下跌",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTlMWU1xOW9nMExPeVBFR01fZkk5UnNwRXNmekJyZXBBNlRVWkx0SVV4WVlJT0R2Qk1kWmlldXpuU1ppaUVuR2dRazF1aHpLN0lyN0U4UjlrMXR5bnotd0pQcEVRNnkzRU1lRmY1VnA4eDRJZ0pfTzhEUkFyU2NzeHdYVTJYc05sNlYxQ29UcmtjS0ZWcnhEMzBPQlBDbDU5Q19hMG5XRXloZWZJcktoMw?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 20:34:13 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Watch Bond Selloff: JPM’s Bob Michele Says Entire Yield Curve Is Oversold",
-      "title_zh": "关注债券抛售：摩根大通的鲍勃·米歇尔表示整个收益率曲线已超卖",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVdqV1lDRlhKZWdmbWx5UDhwekFhUDU3SXk4ZC02MElnd0l4bUd3V1hLMlZqUjZPUEVJdF9BVnpOWkZVSU95ZGFGSFBZNjd3M2hraTEya1Q0Zlg4QVRfZk9Sd2xHSXN6WGYxRjJJd21sMm9YVzR1dkZETTdaZWVOMmptYkZNVXlHNzQ2M0dqa0tMQi13SUt1UzVlMnFvM1NkZzE1WXJwZlpvRXJ6?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Manus Expands AI Tools in Renewed Push Into Agent Market",
-      "title_zh": "Manus 扩展人工智能工具，重新进军代理市场",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR25UV0RsMFktbDU0QU4xTFlpRFJ4RzhDSlZmeW55MlJoZTRodGNRXzZQRFdUVC1tLVZRWEttSUNBQ2V5ZzNZWEd1aHVvUE9XTXRqRk5XNlJHTkZyTTExT3VreUdLNEtJZ005R2ZqWUNNZUhueG1FOHVYZ1pmMlhCUV9Va3I2VDd2NnZ2dng1Mi1TNnpKdjdMNUZwdFRkZVJqdVgwNzBsTEFDdkU?oc=5",
-      "pub_date": "Mon, 28 Sep 2026 17:57:46 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap",
-      "title_zh": "通胀忧虑提升债券收益率，标普 500 指数下跌：市场总结",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr?oc=5",
-      "pub_date": "Sun, 27 Sep 2026 22:15:52 GMT",
+      "title": "Muni Trading Jumps to Highest Since at Least 1995 on Market Rout",
+      "title_zh": "市场暴跌，Muni 交易量跃升至至少 1995 年以来的最高水平",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTYyTnltcmhGZGVPTzdnbWVGcVBHR2o1cGFseFl1YUNTd1BFb0QtOVJaT1NrUVVoYlJYb1lPaW9VeVJLRi1yT2dsNnpnOXNCWEdTUzYwaGFJVjVzVDB6TlBMMkgyN0hkRi0xV3JabkJZMVhmaTFpVTdScV83RjBMYUptcnQ4cXJkR243em5rTFBSZ3RGREl2SVVkNU9ZcHUyMmgyeUVoWklrQ1ZsMWxOTld1bXgtQQ?oc=5",
+      "pub_date": "Tue, 29 Sep 2026 17:11:25 GMT",
       "source": "Bloomberg.com"
     }
   ]
