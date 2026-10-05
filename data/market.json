@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T10:20:34+08:00",
+  "updated_at": "2026-10-05T09:32:30+08:00",
   "items": [
     {
       "symbol": "^GSPC",
@@ -43,8 +43,8 @@
     },
     {
       "symbol": "^N225",
-      "price": 68309.46,
-      "change_pct": -0.94,
+      "price": 69857.96,
+      "change_pct": 2.27,
       "currency": "JPY",
       "name": "日经225",
       "group": "亚太"
@@ -67,32 +67,32 @@
     },
     {
       "symbol": "GC=F",
-      "price": 4162.3,
-      "change_pct": -0.95,
+      "price": 4182.0,
+      "change_pct": 0.47,
       "currency": "USD",
       "name": "黄金",
       "group": "商品"
     },
     {
       "symbol": "SI=F",
-      "price": 59.98,
-      "change_pct": -1.23,
+      "price": 61.51,
+      "change_pct": 2.56,
       "currency": "USD",
       "name": "白银",
       "group": "商品"
     },
     {
       "symbol": "CL=F",
-      "price": 91.11,
-      "change_pct": -1.9,
+      "price": 90.37,
+      "change_pct": -0.81,
       "currency": "USD",
       "name": "WTI原油",
       "group": "商品"
     },
     {
       "symbol": "BZ=F",
-      "price": 102.25,
-      "change_pct": -0.06,
+      "price": 101.76,
+      "change_pct": -0.48,
       "currency": "USD",
       "name": "布伦特原油",
       "group": "商品"
@@ -100,23 +100,23 @@
     {
       "symbol": "CNY=X",
       "price": 6.7,
-      "change_pct": -0.09,
+      "change_pct": -0.12,
       "currency": "CNY",
       "name": "美元/人民币",
       "group": "外汇"
     },
     {
       "symbol": "EURUSD=X",
-      "price": 1.13,
-      "change_pct": 0.07,
+      "price": 1.12,
+      "change_pct": -0.09,
       "currency": "USD",
       "name": "欧元/美元",
       "group": "外汇"
     },
     {
       "symbol": "JPY=X",
-      "price": 157.83,
-      "change_pct": -0.06,
+      "price": 157.49,
+      "change_pct": -0.27,
       "currency": "JPY",
       "name": "美元/日元",
       "group": "外汇"
@@ -139,8 +139,8 @@
     },
     {
       "symbol": "BTC-USD",
-      "price": 84824.99,
-      "change_pct": 0.39,
+      "price": 86694.16,
+      "change_pct": 2.28,
       "currency": "USD",
       "name": "比特币",
       "group": "加密"
