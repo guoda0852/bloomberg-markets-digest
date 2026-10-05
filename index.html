@@ -52,8 +52,36 @@
   #klines-macd { width: 100%; height: 140px; margin-top: 8px; }
   .legend { display: flex; gap: 14px; font-size: 12px; color: var(--muted); margin-top: 8px; flex-wrap: wrap; }
   .legend i { display: inline-block; width: 18px; height: 3px; border-radius: 2px; margin-right: 5px; vertical-align: middle; }
+
+  .md-body { font-size: 14px; line-height: 1.75; }
+  .md-body h1 { font-size: 20px; margin: 4px 0 12px; }
+  .md-body h2 { font-size: 17px; margin: 20px 0 10px; border-left: none; padding-left: 0; }
+  .md-body h3 { font-size: 15px; margin: 16px 0 8px; color: var(--accent); }
+  .md-body p { margin: 8px 0; }
+  .md-body blockquote { border-left: 3px solid var(--accent); padding: 6px 12px; margin: 10px 0;
+                        background: #0d1117; border-radius: 0 8px 8px 0; color: var(--text); }
+  .md-body table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 13px;
+                   display: block; overflow-x: auto; }
+  .md-body th, .md-body td { border: 1px solid var(--border); padding: 7px 10px; text-align: left;
+                             white-space: nowrap; }
+  .md-body th { background: #0d1117; color: var(--muted); font-weight: 600; }
+  .md-body ul { padding-left: 20px; margin: 8px 0; }
+  .md-body li { margin: 4px 0; }
+  .md-body hr { border: none; border-top: 1px solid var(--border); margin: 18px 0; }
+  .md-body code { background: #0d1117; padding: 1px 6px; border-radius: 4px; font-size: 13px; }
+  details.stock { background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+                  margin-bottom: 12px; overflow: hidden; }
+  details.stock summary { padding: 14px 16px; cursor: pointer; font-size: 15px; font-weight: 600;
+                          list-style: none; display: flex; align-items: center; gap: 8px; }
+  details.stock summary::-webkit-details-marker { display: none; }
+  details.stock summary .arrow { color: var(--muted); font-size: 12px; }
+  details.stock[open] summary .arrow { transform: rotate(90deg); }
+  details.stock .stock-body { padding: 0 16px 16px; border-top: 1px solid var(--border); }
+  .report-link { font-size: 13px; color: var(--muted); margin-top: 10px; }
+  .report-link a { color: var(--accent); }
 </style>
   <script src="https://unpkg.com/lightweight-charts@5.0.0/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
 </head>
 <body>
 <div class="wrap">
@@ -83,6 +111,15 @@
     <div class="legend"><span><i style="background:#2962FF"></i>DIF</span>
       <span><i style="background:#FF6D00"></i>DEA</span>
       <span><i style="background:#26A69A"></i>MACD 柱</span></div>
+  </div>
+
+
+  <h2>股票智能分析</h2>
+  <div class="chart-card">
+    <div class="cname" id="analysis-updated">加载中…</div>
+    <div class="md-body" id="analysis-dashboard"></div>
+    <div id="analysis-stocks"></div>
+    <div class="report-link">完整报告见 <a href="https://github.com/guoda0852/daily_stock_analysis/blob/main/published/latest.md" target="_blank" rel="noopener">daily_stock_analysis 仓库</a> · 每日 18:00（工作日）自动更新</div>
   </div>
 
   <h2>彭博重点新闻</h2>
@@ -276,6 +313,47 @@ function drawKline(sym) {
   kCharts = [mc, rc, dc];
 }
 loadKlines();
+
+// ---------- 股票智能分析 ----------
+async function loadAnalysis() {
+  const dashEl = document.getElementById('analysis-dashboard');
+  const stocksEl = document.getElementById('analysis-stocks');
+  const updEl = document.getElementById('analysis-updated');
+  try {
+    const md = await fetch('https://raw.githubusercontent.com/guoda0852/daily_stock_analysis/main/published/latest.md')
+      .then(r => { if (!r.ok) throw 0; return r.text(); });
+    // 按 "## " 切分：第一段为仪表盘，其余为个股
+    const parts = md.split(/^## /m);
+    const dashMd = parts[0].trim();
+    dashEl.innerHTML = marked.parse(dashMd);
+    const m = dashMd.match(/20\d{2}-\d{2}-\d{2}/);
+    updEl.textContent = '自选股智能分析报告' + (m ? ' · ' + m[0] : '') + ' · 数据：daily_stock_analysis';
+    stocksEl.textContent = '';
+    parts.slice(1).forEach(p => {
+      const nl = p.indexOf('\n');
+      const title = (nl > 0 ? p.slice(0, nl) : p).trim();
+      const body = nl > 0 ? p.slice(nl + 1) : '';
+      const det = document.createElement('details');
+      det.className = 'stock';
+      const sum = document.createElement('summary');
+      const arrow = document.createElement('span');
+      arrow.className = 'arrow'; arrow.textContent = '▶';
+      sum.append(arrow, document.createTextNode(title));
+      const bd = document.createElement('div');
+      bd.className = 'stock-body md-body';
+      bd.innerHTML = marked.parse(body);
+      det.append(sum, bd);
+      stocksEl.appendChild(det);
+    });
+    // 默认展开第一只
+    const first = stocksEl.querySelector('details');
+    if (first) first.open = true;
+  } catch (e) {
+    updEl.textContent = '分析报告暂未生成';
+    dashEl.innerHTML = '';
+  }
+}
+loadAnalysis();
 </script>
 </body>
 </html>
