@@ -40,6 +40,16 @@ SYMBOLS = [
     ("BTC-USD", "比特币", "加密"),
 ]
 
+
+# A股指数 K 线（同花顺数据源，需 HITHINK_API_KEY）
+KLINE_SYMBOLS = [
+    ("000001.SH", "上证指数"),
+    ("399001.SZ", "深证成指"),
+    ("399006.SZ", "创业板指"),
+]
+HITHINK_BASE = "https://fuyao.aicubes.cn"
+HITHINK_KLINE_PATH = "/api/a-share-index/prices/historical"  # 指数专用端点
+
 NEWS_RSS = (
     "https://news.google.com/rss/search"
     "?q=site%3Abloomberg.com%20markets&hl=en-US&gl=US&ceid=US%3Aen"
@@ -113,6 +123,70 @@ def translate_en_to_zh(text):
     return None
 
 
+
+def fetch_klines(days=250):
+    """从同花顺拉 A 股指数历史日K，返回 {thscode: {name, thscode, klines:[...]}}。"""
+    api_key = os.environ.get("HITHINK_API_KEY", "").strip()
+    if not api_key:
+        print("klines: HITHINK_API_KEY 未设置，跳过")
+        return {}
+    out = {}
+    now_ms = int(time.time() * 1000)
+    start_ms = now_ms - days * 86400 * 1000
+    for thscode, name in KLINE_SYMBOLS:
+        try:
+            params = {"thscode": thscode, "interval": "1d",
+                      "start": start_ms, "end": now_ms}
+            url = HITHINK_BASE + HITHINK_KLINE_PATH + "?" + urllib.parse.urlencode(params)
+            req = urllib.request.Request(url, headers={**UA, "X-api-key": api_key})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            klines = normalize_klines(data)
+            if klines:
+                out[thscode] = {"name": name, "thscode": thscode, "klines": klines[-days:]}
+                print(f"klines: {name} {len(klines)} bars")
+            else:
+                print(f"klines: {name} 无数据 (code={data.get('code')}, msg={data.get('message')})")
+        except Exception as e:  # noqa: BLE001
+            print(f"klines failed for {thscode}: {e}")
+    return out
+
+
+def normalize_klines(data):
+    """把同花顺返回转成 [{date, open, high, low, close, volume}]。"""
+    rows = []
+    if isinstance(data, dict):
+        inner = data.get("data") or {}
+        if isinstance(inner, dict) and isinstance(inner.get("item"), list):
+            rows = inner["item"]
+        else:
+            for key in ("klines", "list", "result"):
+                if isinstance(data.get(key), list):
+                    rows = data[key]
+                    break
+    elif isinstance(data, list):
+        rows = data
+    tz = timezone(timedelta(hours=8))
+    norm = []
+    for r in rows:
+        if not isinstance(r, dict):
+            continue
+        try:
+            ms = r.get("date_ms")
+            d = datetime.fromtimestamp(int(ms) / 1000, tz).strftime("%Y-%m-%d") if ms else ""
+            norm.append({
+                "date": d,
+                "open": float(r.get("open_price", 0)),
+                "high": float(r.get("high_price", 0)),
+                "low": float(r.get("low_price", 0)),
+                "close": float(r.get("close_price", 0)),
+                "volume": float(r.get("volume") or 0),
+            })
+        except (TypeError, ValueError):
+            continue
+    return [k for k in norm if k["date"] and k["close"] > 0]
+
+
 def fetch_news(limit=12):
     req = urllib.request.Request(NEWS_RSS, headers=UA)
     with urllib.request.urlopen(req, timeout=20) as resp:
@@ -158,6 +232,18 @@ def main():
         print(f"news: {len(news_items)} headlines")
     else:
         print("news: kept previous data/news.json")
+
+    try:
+        klines = fetch_klines()
+    except Exception as e:  # noqa: BLE001 - klines failure must not kill market data
+        print(f"klines fetch failed: {e}")
+        klines = {}
+    if klines:
+        with open("data/klines.json", "w", encoding="utf-8") as f:
+            json.dump({"updated_at": now, "symbols": klines}, f, ensure_ascii=False)
+        print(f"klines: {len(klines)} symbols written")
+    else:
+        print("klines: kept previous data/klines.json (if any)")
 
 
 if __name__ == "__main__":
