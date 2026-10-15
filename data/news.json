@@ -1,53 +1,74 @@
 {
-  "updated_at": "2026-10-14T09:33:56+08:00",
+  "updated_at": "2026-10-15T09:11:28+08:00",
   "items": [
     {
-      "title": "Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap",
-      "title_zh": "亚洲股市因美联储加息次数减少的信号而上涨：市场结束",
+      "title": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap",
+      "title_zh": "由于CPI过热引发美国抛售，亚洲股市下跌：市场结束",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 22:04:59 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "S&P 500 Ends Longest Streak of Calm Since 2020 as AI Trade Sinks",
+      "title_zh": "人工智能贸易下沉，标普 500 指数结束 2020 年以来最长的平静期",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0NPWUlGNHA5MHJPQzczSEFzenVjOFVjX0NCUW5zNnhxNmRsSFVwdGZyaFdyZHhvWFU1NDVZY041TllRSjkxazNibUVVc0FTSEN2YmQtQVpzcnB3SE9HYWZTSDQzLWoyY3ZGQUZ5ejZxVEhGWE1ONkp4N0k0eXZsc2pCYTBoeEZjdFo3ZlJSOThNeUlYM1pqd1BISnUwWG9Cd2UzMmVtMGxmeDhDSE9xSVNWcHk4Zw?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 20:36:21 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "CoreWeave’s CEO Blames Rout on Market Acting ‘Irrationally’",
+      "title_zh": "CoreWeave 首席执行官将溃败归咎于市场行为“非理性”",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG5nZTFoc2RseXdvOFNXRVpBaWZGSnRvcDRlYzhIS09WdTU4SE90STBqTU51Um9uTzNjTzhfTGpLeFBDVmpGWElFQXdnZG94WG4yMFc0X3RTNUh0STRYT2lCOG4ydldONWtyVklMSndLVndoZjlkZXNubWtLeGJOOFVPNGpSNHFDYVE5eVNLZmp5dThyWk9fV1pNWHR6MG1JU3AwWVduQXJMVzNv?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 17:54:27 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Russell 2000 Sinks 11% From Peak, Hits Correction as Rates Rise",
+      "title_zh": "罗素 2000 指数较峰值下跌 11%，随着利率上升而回调",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLW0yRmNZQmRUU2d5UF9pZS1HaDVadGdmc1pYU2UzQlVGeHc5VDFCanBRMGk3UVF6VDlrRll1OHl6NG03ekNGaXVFOWxjMXhlX00yenJrWVZ2MzBlcy1BNG1wbEUycERYdW43OUJlZXZucGRXekVsOUdfN2JtUEE5V0ZoLUZyeE5NNmp6TDlSVVJKZHBOSWYyd2dvSE4xOHdBTThrNDE5Z2N0QlNpYklIQ0Fn?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 20:16:16 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Chip Stocks Set to Erase $1 Trillion in Value as Rout Deepens",
+      "title_zh": "随着溃败加剧，芯片股价值将蒸发 1 万亿美元",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU5tdUlObk9iVy1wT3p6QjBDQVdUNEhIOUR1ZS0zOFhsSFhoN29PdWQ0ZjQ1X0RHOTVfQ3hkbEVGTU5aRGxVWi1meDRWM2loYlJzR3JfUHJhXzZvRkpBR2ktSzhBbFlrcDFSU1YtcFM0d2IzQTZtUmZRRDVlQXlrRHl3NlZKeXRjYW1vUHpiWDd3UVdQSTMxanhnZWVYQTdadVB5bDRvcU1taVNza2ZfZg?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 15:33:17 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Stocks Fall on Inflation Woes as Chip Rout Deepens: Markets Wrap",
+      "title_zh": "随着芯片溃败加深，通胀问题导致股市下跌：市场休整",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5",
       "pub_date": "Tue, 13 Oct 2026 22:03:38 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Rosenberg Warns of Most Stretched Market in His 40-Year Career",
-      "title_zh": "罗森伯格警告说，这是他 40 年职业生涯中最紧张的市场",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjNhNlJvNXZEUDQzZGFma3RnVlkxWjUxbG1sS05ybU9WWHd6UmJfTjdPVkJSX0tfS0U5bVFtLW1mdlRoQ2hGemx5dzd2bTJhekxaRE0xcjRDbU10RXpvajZodUdFcVlyZ2pNdWxzY24xOTNNV2JGc2pIaG91eV94OG1FU0NWYkU4UW9NbVo1WENzX0FZWHdIbWFwV3ZLTExLREdDRGFsLVR4eDZjd1FYSldn?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 17:38:42 GMT",
+      "title": "Turkey Lets Lira Fall Quicker to Avoid Future Devaluation Risk (TRY/USD)",
+      "title_zh": "土耳其让里拉加速贬值以避免未来贬值风险（土耳其里拉/美元）",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlp0UXpDRl9IZVU3YndMZDdqcFU1ZHdGWTAxbThqUkVUbWlyVDRiazdTX05XYnREeXUtVmdNLVY3bC1GMXliWFlYZjlYbW9FRmg5UjdGeGhxZUVHZHhhQUtXb0UzQjVxRk5GYnNBWDlYMEFwYkNkVEw5QnZzc1REVkVpMmNobXdBSHNwajF3TVNvdzZUVzMzSDZDcGZuQkdvY05zMnVsRTB6ME1IaG1pM1Jvaw?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 09:15:46 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Ray Dalio Warns Slump in Treasuries Market Has ‘Long Way to Go’",
-      "title_zh": "雷·达里奥警告国债市场低迷“还有很长的路要走”",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnltcWR3Q1MwQUFpck9OQ3lVZm5SUnZzbld3c3FRMXpsemplOURpYTdpUDBQdHJpNzltdDIyTzhtWXB4R19OOVBGVXV2RE8tLXdVU1NjZ0dVQ2g1SVRfNFhwbFpfMGM2OTVWRjFzdlhZNV9Va2N0Mk1mYjl2SzVMNXU1S1pXbWJqcHZ1cndPZ0Z0TlNYSE1FR2FaS3VzYUhSU1A0RERTdDNfd1BqdzlFb0xn?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 16:48:44 GMT",
+      "title": "US Mortgage Rates Hit 7.5%, Extending Slump in Purchase Activity",
+      "title_zh": "美国抵押贷款利率触及 7.5%，购买活动持续低迷",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXN2V1daY2pfR3pUS09BOURuNHByLW5QWmViOUViTHd2bzkybTB0YmNyVlRPQlZwUGk1WEtaXzVKNHNMSDBrbS1DcXJnZi1qR3VkY2Q4Z3d4eW0xS1FaQkRCVmREVUwzY1l5MlZ6NDdYNFozVEVQSTcxcU5EOXplR29wU0FzNUg3Z2cxRHg3Mzh4UE9nV0ktQVJfeEdSVWlha291cTMteWlBNkVtOWtuaU5QQQ?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 13:26:08 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000",
-      "title_zh": "Strategy 的 Saylor 预计比特币将回升至 10 万美元以上",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 18:55:09 GMT",
+      "title": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
+      "title_zh": "中国准备引领价值 5 万亿美元的人形机器人市场",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 03:27:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Bassman Warns of ‘Nightmare Scenario’ Amplifying US Bond Selloff",
-      "title_zh": "巴斯曼警告“噩梦情景”将加剧美国债券抛售",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGkzUG9vQUkxV1B4X08zYktTZUZPd05NNG9OV1R5SUJQb1hWajJ2TE9jNmxtSlZGNlFFZ2xYYzRPMnpxRk9Ib3FlMlpHbmVJbzA2eVFuYWhVd2Z0M3l2Qnp3NzUxb0F1cWFGSDVJMDNSUlBLbmE4Wkg5SS1WU2FmVGVoVmNTZXA1bG5TeXNPX0poUWZKWXVVb3k3VWVOZl9LMVFxUFhfX3kyelZ2azdSNEY5aw?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 17:34:03 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Bond Traders Hand Crown to Equities as US Banks Deliver Results",
-      "title_zh": "美国银行公布业绩，债券交易员将王位拱手让给股票",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVphOE9oc0tKcV9uR05MLWlWQ01oUDFQMGI5NkgwdlBjdnBPclUwRWNkdmRwYVRWWDdhbnlUejNzVGl0X1JGeWRJQTl1UUNHUjdJQi1XX0dqMzFBYUM4T0hZMTg4R21lOVdaM1BWTF9UeVA4UGRkYkJqSkdUU0VWWXYyTGo1UGw2REdBV0pRSlBOSHRHVld3YmZGYnlZQktOd1BObEVGQ1paUExCc0l1TFZscw?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 17:34:46 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Citadel Securities’ Rubner Says Retail Traders Return to AI Bets",
-      "title_zh": "Citadel 证券的鲁布纳表示零售交易员重返人工智能赌注",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRwaWpYUmwydFhYSmlrbzNDR2VTaEhFNmRyUHJRRmdnWk9UNTVUTUxwcUhuLXF0TXJaY2JMbHI5R2YzM2VLeUh2Z2g1RFVjeGJWNjZSSFJ6OVlZelJudGkzNHF6OEJSUTFNYlRZNEF4WTJRUjNFN2lTZGM5c0FITnBWNWNUaFV6YTVxZmFubWlhVm9WaWY2VElTb2tsOUZfZ3RYN1VEcl9Edmdad3F4SXByNTE?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 21:30:00 GMT",
+      "title": "Treasuries Slump as Hot Inflation Lifts Fed Rate-Hike Bets",
+      "title_zh": "由于通货膨胀加剧美联储加息押注，美国国债暴跌",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzlnUlRIcHpyNkR3U0tfY0RXVEl0WGRuMTZuSTVvbnNhWXNTVjN3Yzhudmhqbjh1RU9mTzF2WHhkTGdhQU15UkZRTG5wSVFSNzZSN0dIQk5HaE55TTk5VGxtYmcxczM1aWk2S19NMVlpbzFQRHpvTm1SRk83N1l4Mng3Q2N0OGxvYWRpLXJNazR4V2xOcE9KdVRDU0pRSVBMY2pQWjdRMnRNWWZXV3ItaDhn?oc=5",
+      "pub_date": "Wed, 14 Oct 2026 12:44:25 GMT",
       "source": "Bloomberg.com"
     },
     {
@@ -58,31 +79,10 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "S&P 500 Futures Little Changed as Banks Report, Chipmakers Fall",
-      "title_zh": "银行报告和芯片制造商下跌，标准普尔 500 指数期货几乎没有变化",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejVYU2Q1SnVUMDFscHNXSlJzWC1ncmk4VkRIcGxoVmlkU0VrNXFzdHdEYktIengwSy05RUdmN2dMb2NrWi1USHZ4NXNmM2tmRzdsMG5jbWF5Wkg3QlRaVUIydGNTUVVRYm9HVWo1bTREM1hickI2NHFJTkJTNmNVeld3WHEzWk1nNXBlRTh0eXh2X2VreDBpa1MwWURLTGVkRURCUm42X09xRUs5UV92M05JZw?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 12:07:12 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Tech Stocks: Cracks Are Starting to Appear in the AI Trade",
-      "title_zh": "科技股：人工智能行业开始出现裂痕",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelNEYkVUUUNaLVE4RUl2c1F6czBWRVVLdHdmaFFCVV9NZ0lON2ltdHo0NUlJYmVJbURKS1NTOHlxanU0YXotRkRvZ2dhSDREYm5BREF4alprWi1NQ08tNDREa3BJa0VkbGsxOGF4RzBYb0YyTDVYeVVmX3AtUG92eXNTRGY0OXpYQ2pBSDNuakx0MkYzeWhha3dNTEQtNnlLaUJZZ3M5c0tfMkxmVVhhQg?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 12:55:39 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Stocks Bounce From Lows on Williams’ Rate Remarks: Markets Wrap",
-      "title_zh": "威廉姆斯的利率言论使股市从低点反弹：市场结束",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFBheWMzUVJ3M2R4VFh3WEJWcG9sRHg5TlJtdUZKV1NScHpsZy1BcDA0TXZUSGU1OUItbnJFY3RIMlB3Sjd6ZjJXMEF6b1dleng3WGJka1pxbzdSSXFCMG9fSzE4b0M2THRmZlBHY01RdkJaRGpjQlkzWWwwNXVCSnI4N3BDYWttWjJtaWttb2laU19w?oc=5",
-      "pub_date": "Mon, 12 Oct 2026 22:04:35 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "title_zh": "美国商品期货交易委员会 (CFTC) 工作人员被告知撤回对可疑石油交易的分析",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX01YRXJsMFE0N1JQRl9SbXJzUEJVMVR3RHJKb2pRTnRtMUJDalJVdTN6V181OTB3Y09PNGNOWGt3SjNtX1pBQk5EeFA3LThKQ0xkODBLSEVkMFkySUhBVWF0a1d2Y2hEVWIxTnA3eldmUE5sVUdXS1I1TmhObzN5eDZUUDZLT2tRdWtPM1FSTWdNRFNEMHN6WGdwMDdYX0gxSGJvS2JwWVZfWGptMW5ibUN0V19VSFEyUi1R?oc=5",
-      "pub_date": "Tue, 13 Oct 2026 22:28:40 GMT",
+      "title": "Ex-Berkshire Stockpicker Puts $5 Billion to Work for JPMorgan",
+      "title_zh": "前伯克希尔选股员向摩根大通投入 50 亿美元",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnRJZDMyUmhHUzdxRXFxTEdIYnhxQkhaUk8xLXpyT3hxRnJORk45MkExY2czb1NsWDZhWWJ1TGV5Z3llX2dsWXNLb0NzRktqOUMzQTVfTG5QdEhadHFmSmN3dWg5T3FicHd6X0xScm5aOTVBV044VDRYWDBJYXZBSGVCNnlyV3Y0enlUTFdhMGlsbjNlaTl0bEJ1YUdoTjV5cUpvSlZFeEoxNFZUTWFYOQ?oc=5",
+      "pub_date": "Tue, 13 Oct 2026 19:21:45 GMT",
       "source": "Bloomberg.com"
     }
   ]
