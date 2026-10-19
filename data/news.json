@@ -1,88 +1,88 @@
 {
-  "updated_at": "2026-10-18T08:35:39+08:00",
+  "updated_at": "2026-10-19T08:44:45+08:00",
   "items": [
     {
+      "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
+      "title_zh": "美国股票期货在繁忙的盈利周之前上涨：市场总结",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 22:07:25 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+      "title_zh": "贸易商在没有关税迹象的情况下对铜牛市变得谨慎",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 20:00:04 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+      "title_zh": "随着人工智能交易的动荡，债券市场的大空头赌注敲响了警钟",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWFfUWVYbDM3OXlSc2Zfcjg5THNXeDlYS21oVFF5MTJKMXhuemNtU3J0aVRPMVNtMEczeG5KdE5sbTNZdUFkZEF4eDNuNGFFc0huTmtuNWlFZ2JXN3BKd2lMRmJTMGMyREE4ODhXT3gzQmF1U1h5RWI4eWVmT3I1Z2lfZVhyS1JwTXRXZWRXUzl5Q1BJME1VWWlOV2dPQXl6RUY3dEhiNlROdU14SmwwZ2JHUE8zQQ?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 19:00:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Option Traders Brace for Volatility Surge as AI Jitters Jolt Market",
+      "title_zh": "随着AI Jitters Jolt市场，期权交易者准备迎接波动激增",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1tRVVVWVR1dzZ0a1oyQWZVZVhyTnZ6aTBpYlhIWjV1UjJVUGNvaTloT3dwZHZhMEY3bzA1emFFaVZ5MmM0OEFFOS1aYmNOY2lvRXlWaDhlZmJDZ1dOT28wVlBtSUJKQWtoaS14ems0dmJqVHpEWTZoNXo1dkMwMFZoZkljRWtIa2I4NlM5R096NlpKd004QnFfLW1nR2lkcHNNd29DeHJKRktyMnoyTg?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 14:00:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "title_zh": "Anthropic计划将部分股份转移到新的“公益”基金中",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 19:56:36 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
       "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
-      "title_zh": "CoreWeave 面临关闭人工智能垃圾市场的风险：《信贷周刊》",
+      "title_zh": "CoreWeave面临关闭人工智能垃圾市场的风险：信贷周刊",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
       "pub_date": "Sat, 17 Oct 2026 14:27:13 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-      "title_zh": "英伟达首席执行官谈人工智能市场动荡：“这一切都会过去”",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 20:33:15 GMT",
+      "title": "Billionaires Warn of a Bubble Yet Howard Marks Is Unconvinced",
+      "title_zh": "亿万富翁警告泡沫，但Howard Marks不相信",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3hVMEZOQ1lHNG5UTmxQOUxBdnktUkRjaGZlQ0hNeFdaX2x4RU9yVDdsWk1kTUQzRXF5N2JCaDhTWnRxc19Sd3ZpMDdqZktDUHVtanlJNTBUZEZSRVd1UTdHRUtlblZwbEZnWkwyd1oxcjdsRFYwMDJScTZ1TU1BRjUwbTQ4YWY0ZVZrZHZYc1U3bTNyNEdjcU1EWGVMT2cyN1JabmNmYXllWVV1c00wTVZB?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 13:00:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
-      "title_zh": "人工智能溃败遭遇 110 美元石油冲击，华尔街焦虑蔓延",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHNoVXVmaThlSEx4SkpxSzR2TEdOLVl0ZnlTWjhQT0FwRWxQOGJKSllUMEl1YzliOVVMTEtRM1FfclQwdWdnMDhremNOTmZJZjhMRVF5R3U0Z2NzQTZUOU5jV3Y1a1BtMXl2ZzhIX1ZvZ1Z5QURkdnJ5djVwTXpROC1xZGQwUkRXQmJhTGNXNURRWElIS0NpSEtlWkdwU2xNcWFocVF0QmFVXy01dUE?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 20:31:45 GMT",
+      "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+      "title_zh": "委内瑞拉5年石油投资近760 $",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVFXSEJ5V0lrTERaLTI0SGFGdDNkXy1ydHp0MjNKMHVWSGYzaE14b3VSWmhfUzc3MmhudW16VUp4LUtJUE9feVdtcHUyT1NhbHVQNlZEWW1HTUZtSWNxM1dmMk1WZnFPc1pLeExobWtyVVJsTlBLSkNLSTBTLXFBRFRDN2FXMXMtYVQ5dllhX1I5aEQ0ZEZqUk44dzd5ZUhkZzFZVWNicGJGNGlEXzNyLUdfRnI?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 00:48:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "S&P 500 Steady as Warsh Boosts Expectations of Rate Hold",
-      "title_zh": "沃什提高了维持利率不变的预期，标普 500 指数保持稳定",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUlmUW5qNmk5TEh5ZWRtckw4Z2dwMkpiSXdOMWlMN2lZeTd1Q040VFhPaGFYLTBkNXQtWEE2dVdiNUlfT0xYWWdmdjVvWDc2bEFfNTVQMnA4LWVYbjRIMU83dXA1MHFVcnZhYW5YazNhV2RIYlNGR0JseFdPZVpMMEJVTXRxVldNUTNLT3Uzb1dLdXl1NU80bHhUYXR6RnZ4SmllbDJRTnZPejA?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 20:37:27 GMT",
+      "title": "Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts",
+      "title_zh": "布伦特原油在中东和乌克兰冲突中持有近110 $",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 22:02:51 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Sound Inpatient Nears $1 Billion Private Debt After Pulling Loan",
-      "title_zh": "撤回贷款后，Sound 住院部私人债务接近 10 亿美元",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXNQMXB6TnNDSHcxeHRWUXlOVVQ0NmRFcWNHM0RoU0ItRG16b1Y3LWpjdlU0dHJXOHY5RTQ1NVp3Q0NLTE13ejBvaFdqX19PMjdHblk0aFJDb3l6MmZvdmZlMnN0RVhPTGNKdlZGb0RmekpnX280ZEl4RzFhcktyX0pWdjZIOG0zUmltQy16ZUg3VU5ycnFRMGZJXzZraHEycjg4aUFIQVY3YVd4NGFOWDRVQXM?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 19:47:31 GMT",
+      "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+      "title_zh": "由于青年健康问题，圭亚那将阻止电子烟产品进口",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzV6bnE3VHBpREh2YVNmbzNlSG82RFpYTG5MMUlURmhnQ2x5UmNaanMxUjA3U25ZNngzMk5hckY5My03RU1rV0x5cHdnd2Z1a2xLU1cxam5KZnk5Z0d0aWtKXzM2VnRqNGxJRFlnbmxscXUxNy0tbFRDT1VQYmhISUNTUG81MlppbjNRZHF5azV3VEkzblZmVTVHWFAtcDN1Z2tzejRuX2RCSER3dzR4Rld3Y0Y?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 01:49:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
-      "title_zh": "全球人工智能贸易陷入困境，中国股市跌幅最大",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm5XMW9DbkZqRlZJUDVKZ3k1a1FjLVR5NE12UGhaOEo2Yk93RWE0bTJZNTZraHFTdUZaOUZwdG1OYkVFdWlZVGF3UU04Y3RVSFRWTks4azd2ZU1wSDRnbFdrc1hIMlNZZWdLZzdYeFozeUxzTzV2aVZiaWVXTlN0YlV5cUNOWnpVR2VVV2h1MTFuWGt5dGtGb3o3cjVPOWV1T25HWW9leDFNTnAtMHI4ZURLbw?oc=5",
-      "pub_date": "Sat, 17 Oct 2026 00:00:00 GMT",
+      "title": "Trump’s Latin America Allies Deepen Ties With Washington Lenders",
+      "title_zh": "特朗普的拉丁美洲盟友深化与华盛顿银行的关系",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGhBb1dvX19QN3B2V05JZ0UwNGFfNDJtaS02UEpuRzFOTVdiMTFFWk14em5HUDBnZmJjQnNCZ1djdDB4UFROMDlzMk0zVi1mMmh0ZTdKaEp6UnRtMGU5c2lUOExwY0hSdjJBSjhUTHRPR2labVVQeE5ZRVpNaUVSV3R3eVRhanRUc2NycWZRdTd1N2tSR3k0NmlsRS12ZkZ5U3prVDFKV21hWEMxNE9LY3R2MjJXZw?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 14:30:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
-      "title_zh": "中国警告腐败官员不能指望安全着陆",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFNXUGJmQTd2TjFnTlg1QTd1WEJiVEVsU0JtM1hhRmNfYjRGR1pZaEZKcGVWZG9EaWk3TjJ1TXVSbWZNLUJqODNxOU1oblY4dEkxdGJNR3lDM2lMbGh4Yk5SY1lEZG5zdUU4d29tX01JZFpQY3ZBYjBrdUxMd2E3NVByaTVQNERoWk9Bc2JWVTItV3Jsd1FDbVZUNVR2RkJUM0hUd2k2QTU0X2tI?oc=5",
-      "pub_date": "Sat, 17 Oct 2026 05:35:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
-      "title_zh": "风险加剧，布伦特原油自 5 月以来首次触及 110 美元",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGpNaEJ4bFlQS3h1ZVFqZU42ZG1vdUMyaFBQd3M4V1I0SkRSeXEyT0drSlUyM3ItODNSN2ktWENEUjRoUTNRMHJCNHZkdDlEWmx5eG5HX3kwakpaX0FUaUo4TXFrOU5WME5vU2FMTjhBTXFyaW56eVM1dTFILWliUVpnVi1pcE5wZVNRTjdFU2F0aXlCYnRRcWI1VHVoejZhN29EQXE4TWIyMHkwUkE?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 20:09:38 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "MSCI Ignites Indonesia Market Reckoning After Months of Warnings",
-      "title_zh": "经过数月的警告后，摩根士丹利资本国际 (MSCI) 引发印度尼西亚市场清算",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm9jb1UxWjc5R3hhcG9tWU5FampWbV9jTkxSSWYxNWdnaGVLLWJuU3JhQlhfWldfS1ViODhGckljRFVOYlY3NXBrR1g4RTlzZTc4dldaN1BDRTV6NWdTQk45ZWRxV0V0T0pJdUY1d1llNE1wWmx0M05DbFJpUVBMOVpMdGVNMWRYdk9YbWVraDlhaFJLejdZcHIyeGNmUUlTSjRZV3ZOZ3M0c1Q3M25EWlBTbVF0dw?oc=5",
-      "pub_date": "Fri, 16 Oct 2026 09:39:58 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "World’s Oldest Gunmaker Opens to Capital Markets With Ruger Deal",
-      "title_zh": "世界上最古老的枪支制造商通过鲁格交易向资本市场开放",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmw5VHZwaEJ2SFFXS0I3ODJBQWJsNlludWZSaEUzUVBlbDkwZVh4Nk1SZnEzQjZaTjVoaEhjRm56NGFUYjl5ZEpRX1RBWldzVXh1WEVmaXVXVjIzUWctT3Q2Z05XR1dOdEQyeUx3VUJtSmk1QUphWTZCcGxfSEtMMHVNRXJfTmREeHU0WF9oYVFvZm5iYkdEWmlKSzNweGhtczg3X1NTSXMzSFBXaUVhcDMwUFRKdw?oc=5",
-      "pub_date": "Sat, 17 Oct 2026 09:32:02 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Stocks Fall as AI Rout Spurs Flight to Treasuries: Markets Wrap",
-      "title_zh": "人工智能溃败刺激投资者涌向美国国债，股市下跌：市场结束",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5?oc=5",
-      "pub_date": "Wed, 14 Oct 2026 22:04:59 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "CoreWeave’s CEO Blames Rout on Market Acting ‘Irrationally’",
-      "title_zh": "CoreWeave 首席执行官将溃败归咎于市场行为“非理性”",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG5nZTFoc2RseXdvOFNXRVpBaWZGSnRvcDRlYzhIS09WdTU4SE90STBqTU51Um9uTzNjTzhfTGpLeFBDVmpGWElFQXdnZG94WG4yMFc0X3RTNUh0STRYT2lCOG4ydldONWtyVklMSndLVndoZjlkZXNubWtLeGJOOFVPNGpSNHFDYVE5eVNLZmp5dThyWk9fV1pNWHR6MG1JU3AwWVduQXJMVzNv?oc=5",
-      "pub_date": "Wed, 14 Oct 2026 21:07:10 GMT",
+      "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
+      "title_zh": "中国反贪污机构调查前广西官员黄",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1lVbmtLenVNT19tT1E2cTN5ZnhPdEFkanhvTXBIOWZhck9aZ2twTzdPcmVUWWFRTWozY1pTWXBScVNzSjB0d2s1ZjNjbGtJMkcxZENBSC0wSXNXSUdBNU5VRFZ2Vk5oZm9MUU5UTjJwVV9GbnZHMll5N0xDSWdWQkNGODY5WXlyWERpc0p6bHVFaUNxUXlUOVhpbTBXYS10LWMwYWdKSGN4bnFheDZveEJ2Zw?oc=5",
+      "pub_date": "Sun, 18 Oct 2026 03:39:00 GMT",
       "source": "Bloomberg.com"
     }
   ]
