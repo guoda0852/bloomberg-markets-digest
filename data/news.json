@@ -1,88 +1,88 @@
 {
-  "updated_at": "2026-10-21T09:13:34+08:00",
+  "updated_at": "2026-10-22T09:09:54+08:00",
   "items": [
     {
-      "title": "US Stock Futures Advance on AI Earnings Boost: Markets Wrap",
-      "title_zh": "人工智能盈利提振美国股指期货上涨：市场总结",
+      "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
+      "title_zh": "随着科技股盈利反弹消退，美国股票期货下滑：市场环绕",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 23:58:56 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class",
+      "title_zh": "Meta凭借支出展望、新股票类别提振了对人工智能的押注",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWw2TXFoSmlmM18yRERkMXpHSGdDN0lWbzl1ZGVNczh4aUYxU1JmZkJualZKREM2Q3JmcjFtWE50a0JUR283UU5XdFk0d1UwSGh0QzdDM3puaU51MjlQM2k1dVdUSVBpZnVOTWI1SWg4eUN0OU5SY0ZfT2ljT0JOemxvd0JDb2tlY2lYWEZFT2VNZ1lka3RIbklORkgwUWJLMzE1XzNUQ0VReEtTaTl5U0Ezcw?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 23:27:05 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "The Treasury Market’s New Power Brokers Are Pickier Than Ever",
+      "title_zh": "美国国债市场的新权力经纪人比以往任何时候都更挑剔",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2JFVWRUN1NCRmxtalJTV0h6SG1oZlYwd3JWVEZGdWIzQjRUMlQ3aU1sMjJtWm5lYWhFM0I5ZmZTWEQ5TVVSZnM4T2k4bzJBZThRY3djamNEX2FSRW03VGttVFJMQi0xaWpNNDdxUV9TN2x2dExMYkwxRzJHRjBpVXdidEFVelpqUUI3NVdJMk1SbG1FWGtIM3NKS2w1VkVyTnNVMU4wUHpWYVRfTWNzN1RB?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 13:46:46 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "US Futures Climb With SpaceX Results Helping Boost AI Sentiment",
+      "title_zh": "美国期货攀升， SpaceX的结果有助于提振人工智能情绪",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmhMZVZkcC1VMWpscGVGU2VxVGZCMEpoano4ejJUWlNKUWxFUFZHYk5JMTdhMzQwNTA4anQxZ3haLVI2a09jbE9NYTdlcHlSZkZQeG1aRUhBd1BnQjNKZW90QTR5S09OZXpodHlOcVprMDdyeWRlNE9ablVaMHhfTHRFYnI4NGt1QWRlc1BHQzh3NWFsU2dsN3FDd19iYlFIWGw4Ykc0a1ByS0tXejJwUUV0OWg?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 12:18:53 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Texas Instruments Forecast Tops Estimates After Demand Picks Up",
+      "title_zh": "德州仪器预测需求回升后的最高估计",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2tPY2NCTDJjS1VSaDFZek5SVE93U19HWDRGQl82WWpGMmNEMkRnU2RFeHM1c0JzZ3g5czBDdFpsU3hveG1ab2w0WnAtUWRqVUhaODh4aThfbTlpcjc3dzRjOHpxdUF2eTBxVXkwaGJqUVF4RGdKWm1pMi1rMzl2MU1fSkhTUUo1b21SdUJXYmR4VHoyRkdnTmZRV2ktSVNhWWltcWVjQ2VQTm9MenZSWkExZzI?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 20:03:19 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "China’s Petrochemicals Glut Turns to Crunch After Months of War",
+      "title_zh": "经过数月的战争，中国的石化产品供应过剩转向紧缩",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVIyeXd2dkxLOVYyXzI5N0g0WW94eEZNWFdjYXUyYzJVMk81YWN2R0NXNFZleUQ5dlNuTUpsOEdSNEQtWW1NT194eldXUUZlT2oxMG8xMGZWMDRpc1REbjhTcmdlNnRIVEdsSnhqN21ka2M2eXBJRDhRM21JN1ZfeWVSWDJkU1YwUF9GMExydWhHemZnRFNEYU5xWUVUYWh2bHdLbWV2a0VBWGdtekJ0SFNsM0FCUQ?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 23:00:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "French Yields Hit 5%, Highest Since 2002, as Risk Gauge Climbs",
+      "title_zh": "随着风险指标攀升，法国收益率达到5% ，为2002年以来的最高水平",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3hBRmliaThTanRGeElUbGlTLTZESXFKQzdTWW52eHh5MjFxdE5Kak8yRVMxQVBDbzFaNmhaTm82NDJaOG5hc1VwSVF1R0ZGWXZiancwekZWc0VubFRFc0NjMzlPTzBpdldjZzJONkNxWS1SdHZUSjZoWU56d3RlZkRHdGNhcC1HUDNqRDNnMkhVa3NHV0I0QW5tenVRZlpsMWt5WFJkdkNwUlNkeHlGREhnc1k?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 09:18:02 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Stocks Climb as SpaceX Results Reignite AI Trade: Markets Wrap",
+      "title_zh": "随着SpaceX的业绩重新点燃AI交易，股市攀升：市场总结",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5",
       "pub_date": "Tue, 20 Oct 2026 22:05:51 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
-      "title_zh": "超微预售带来缓解后人工智能股上涨",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXV6SV9KdFBtdTBlYnZjb0RObThaNS1VcHRDSDZYUFNXemJYbGVHYklKSGdkenJGUEJmTzVTRU9pbHJMLWVOa0xxN3A5bFc1cDQtUlZ0TXRWLUpKcnEyTXRQRGZIR1NCeDV5THBsV011WDZQME5rbmdCcW96OGxrQW5CMUdtcVNPdFNUNlpETl9UR25EX1h6LXMyWWFQdmdESWZMc0hhWThTZF82X2g3bTAxWnRVQQ?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 22:14:09 GMT",
+      "title": "JPMorgan’s Turkey Securities Unit Plans to Cease Operations",
+      "title_zh": "摩根大通土耳其证券部门计划停止运营",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1psamRzdFV2ZFVobHItaVdlWkRmeHF6NUZINFVpckVoNzAwODRGNWZHdDJHWEhrYVBsekQ1Sk9tUkNUcjlnX3B1QVpfcDhRX0dRZVZCNGxsUUVsYUdyOXE3OTVnbXNoVlNyZC1xSUx3VTBvamN1cHA4WVAwMXRKTUJaQmxOOXNGbmwtVlRjOF9NRkE5M2MtaWFlN3J1ZmJ0U3RYSnFSR2lqZWpZN0Nr?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 19:03:12 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Wells Fargo Indicator Flashes Buy Signal After Stock Turbulence",
-      "title_zh": "股票动荡后富国银行指标闪烁买入信号",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2tMa05yejMtdm93a3NWSHRQSDRIdXRtaHZSVHgyeUhMbEI3VllmNzVkUXBNcVcyMXFVX09kVmtnS1g2OC1XU1p3RXQxRGlvenFVb2JMUXp1U0xoZllrV0YtRmRmSzZHMFVBZzZVb2ZEMVBkVW52NHN5ZGJzd0xockdnZFBKN3RoNWN3U0Z1WnlsRElNRy1PYlh1M3VnTUVoRXU2ci1oXzBFVWgwZGhWNTd5NjY?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 16:13:07 GMT",
+      "title": "Macquarie Oil Traders Leave as Bank Restructures Commodity Units",
+      "title_zh": "麦格理石油交易员因银行重组商品部门而离职",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUNGeXBzVVd4SEFsZy1yNE5DNUQxaFlfWWlnTE1KSW1rYXNBWDNyQjhRa0hRQzNXWUlRUENLMW9XVW5lenFmdUhtY1lkR01VN1FLWm5WMENyOTBvZzBlZ1BPRjJmc2k1WWMxbGhVWEo2Sm14aEQtZi1JNlpGZnV5RlRwenZCN2oxNkZ3R1dqQlExeDdhRG9IcXQwY3QxREtLWHFQbUdpODgweHRnX0NVYVE5V1RKQQ?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 03:46:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "US Futures Slip as Neocloud IPO Elice Flops, SpaceX Results Loom",
-      "title_zh": "Neocloud IPO Elice 失败、SpaceX 业绩临近，美国期货下跌",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHBjRWY0OEtaemZTSEZuN1I2NmE5RlFCTFZLbEEyelVhRTFqa3R5dWFKdkdwSXRUZm5IZEhCYVFoNlhSRUh2S0FKQ1dWVVNNSkl4QVVHcVhYYmlEYjR5U3dIRTM5aUc3Qks1a2JNOVBFQU9QWEtSY2RERDNZem1Vbm5tN3YtRVhOU1dtQURDSWFxdHRUdzZWaHBSZy1KYzM5WnY3dEozWEdJTnU0Vkc0cVIyM2Q?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 11:57:42 GMT",
+      "title": "Argentina’s Bond Selloff Blindsides Bulls as Vote Fears Grow",
+      "title_zh": "随着投票恐慌加剧，阿根廷债券抛售对公牛造成了不利影响",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbW8xSWFVVncxdjI2T25xVDl1UFNQRElRcThYVnREV1Zvb3FEd1U0XzdYV210U21xMUpaakt6VmhoSDAwQm5uX1QzeFhHd0gyd21IZjhoUE9jcnJ3bGQ3MFkxdDI5MVFGMGVFX2ljb0tZc0NYMTZQbDJPTEZpS3hrYTZmbU1rWEdMc3JkdzFpQmxHX3pvRlJwRmk1YndDWktHRGxvVG8zRG5lRXNWNEFzU1BJVGJTUQ?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 19:33:35 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Everybody Seems to Hate This Bull Market — Except Me",
-      "title_zh": "似乎每个人都讨厌这个牛市——除了我",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1VvMXFQWjB2QXJMXzRpRV9fdmV0Z3AtbTBGM0xlaXVZY3B2b1RYT1RsRzNDMm16TW5VbUQ4czJxSUFQek1SOENvTGJ5SGUyd1prZDJyV2hQdUpIRjg0OWx6Q213bnUzdGFiOV9BQXdSY3hhdmtDdUNzSjFsQzVhNE9UZUQ1ZDFZdzFWMEljeG9mQUZwUnZaWGtmMjE4X2diRWNsbmFMci1zR0ZaNDNmbjBNdw?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 09:00:07 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Pending Home Sales Fall to Record Low as Mortgage Rates Rise",
-      "title_zh": "随着抵押贷款利率上升，美国待售房屋销量跌至历史新低",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRExtVVZObGV5Y2F1bEx2VVR5SXI1NTRRS1VtMmRhd3RsR3dpUG5FNDFTSE80bjZrQWNWNzJVT2tMVlRQTjFxUGYyUWlDSFpUMmpoenFfZWo3YjdJbG5FR2hSd09Kdkh2MTRqeUlsOTNYOHdnUWl0NWxDaWkza0FiYWJOcDlUNC16ajVYTEZidTFZUVFuTlNIVDljZ01IOGRWNHJPVlE5VjVWeHphVmkxQTR6SFQ?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 14:12:38 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Stocks Rise as US-Iran Hopes Trigger Oil Decline: Markets Wrap",
-      "title_zh": "美国和伊朗希望引发石油下跌，股市上涨：市场总结",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUdmWVljdmxvdFIzRkRFeDJLQk0wTFVOaTlEMExhUEpUelZOTFJfdDFlZURyWXpjU05OcXBhX09QN0dlblc2aDFhZWFuQUNMOXVLbDN1eFN2Q0xBMU1WQW1KZDRrMEhuUmxlZmhPMmlnckVPcUJrSHpQa0tRWGRab2dXdXZkWTRpNC1kZmRCSndyblZJ?oc=5",
-      "pub_date": "Mon, 19 Oct 2026 22:09:31 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Private Jets, Investor Pressure Push Polymarket CEO to Grow Up",
-      "title_zh": "私人飞机、投资者压力促使 Polymarket 首席执行官成长",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUJVTFNoMDVmbFhPQjdQaHJsVEdmQ3I2dlpYVWU4NkYzR0tiYXkwZU5ocDBXVC1VTTk4Z0tNS201LTJuRjVNejRJMkZjeFJYRXUzdDh5b1BOTjlWMHdXYzRSZXZkWG9sc2pYdVJGTFp3VWVRaFMtWHNZQ0Zwd2xmS05kV19CdURtVG92d09yeVpTNEdVZ19oSjV2Qi05Z3U4UWhSTlB4VHlNSjN6eXhveGV6WGUwWEdtYmFMa1Fn?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 10:30:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Private Credit Firm Tikehau Is Said to Seek Strategic Investor",
-      "title_zh": "据说私人信贷公司 Tikehau 正在寻求战略投资者",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNCdU9INE80QTh4UFhjNjJ0cWNnZktBYUw0RUpSYjVIek52dll6SGpRSDRfZjBweWZnQThYbGx1ZndsY1hJSVhMTnhKMVJpYkVUbUNWeHNwcUQ1N1EtRE5lUnM3dlVsbjMzVDVNMHdKX3ctam1tOUZrUy1tMnhwcDgxaW1oaU5xWDFSSW8tWTZzYVZOMlRBY2wxS19VVW13WG5UYWZWS3hjSzIzRmNSQjc3Zw?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 10:16:04 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "European Gas Prices Rise Above €90 for First Time Since 2022",
-      "title_zh": "欧洲天然气价格自 2022 年以来首次升至 90 欧元以上",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTdvZHRUbS1lZ193MVQ4Yk53aWwxNnFLNWhkb01xN2xIV3M3dlBLMXVoM2wwQlItSjlZQ1VWSEFHWmxtZ3JYNm1aYzI3TjhLUVd4WlI5TTdLQ1hmMnd3ZXhramplRU1oREFHQ1dBSkdUWkNxTWUyUHppYTV0bXRsWG1UaWw4RHFFOHhRZFdhZzJWbTA3MHFpVXJuLV96SmhCOWNGYUJDc1RPSVNsY1Zz?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 11:23:44 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
-      "title_zh": "由于能源主导的通胀对利率路径构成压力，金价保持下跌",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlBORHhHSWt0MDQzVVdWSkpKcHhLeVFia0U1M2VDT1Y5eGZYSWJZdDJLX09heXV6eGxUWGZuMGwzMlJZWFBoOEJxWjloWFZRVEtZMEhsUEhlTWctcFNyWXFNSDFQMTNiU3ozelhkWFJFeGNVOVUxcUNNNHR2WTJiTHJ4TkdkeXBkU3RrOExfTzNMU3hMeFkzNDZyQ2RBWk5NaHlMNW1EWnplYm1kTmdCLXYxOA?oc=5",
-      "pub_date": "Mon, 19 Oct 2026 23:55:45 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
-      "title_zh": "芝商所 (CME) 的特里·达菲 (Terry Duffy) 谈令人不安的金融监管状况",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmdEckhselU0TnI2NGZPb2JDNXBITEduNFhPdDYtMUNuU0lZcVJONnNMNjBWZ3MxVGpJSjFqamJEemtNZm4xLUFsT2VrTDdxNnBxWEFIRzhVYU8xRDlWUzhzQktmWS1UOE5nS1phVGZiT3hCemd5UHdpajZubzVUeXh1WjF1cWRBRlZMWUJFakZrMkpJRi12NUk2cnRpbGdPUkVscmtoWldvTzlLWVpYSnZJZFg3ZVNS?oc=5",
-      "pub_date": "Tue, 20 Oct 2026 08:00:07 GMT",
+      "title": "Punches and Missed Warnings: Inside Turkey’s Billion-Dollar Fund Scandal",
+      "title_zh": "拳击和错过的警告：土耳其十亿美元基金丑闻内部",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzdtQlg3WHFIVkNoTzJWeE94elVCZFdaRWZBUjFPXzdqSUpfSG84azF2ZW9xOUhrZzN0N29pc1BVR0dEZ0VxV1hRVE5Ibk5kSkU4SEh5SFRyRzZDZ0xSS2F1UDdOeWJzYnMzTnRiaEgxNFFYdUJVakpMOXQ5VjJCSGNXUHRqOEdVR3dtNWtXblN1SC1PSUpaSHJnZTlVRDhEVXRJYVRObkJWczJqckRaV18tNA?oc=5",
+      "pub_date": "Wed, 21 Oct 2026 02:00:00 GMT",
       "source": "Bloomberg.com"
     }
   ]
