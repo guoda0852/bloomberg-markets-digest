@@ -1,106 +1,106 @@
 {
-  "updated_at": "2026-10-26T08:57:21+08:00",
+  "updated_at": "2026-10-27T09:47:34+08:00",
   "items": [
     {
       "symbol": "^GSPC",
-      "price": 7623.68,
-      "change_pct": -0.52,
+      "price": 7676.77,
+      "change_pct": 0.7,
       "currency": "USD",
       "name": "标普500",
       "group": "美股"
     },
     {
       "symbol": "^IXIC",
-      "price": 25955.34,
-      "change_pct": -0.21,
+      "price": 26169.38,
+      "change_pct": 0.82,
       "currency": "USD",
       "name": "纳斯达克",
       "group": "美股"
     },
     {
       "symbol": "^DJI",
-      "price": 52215.16,
-      "change_pct": -1.23,
+      "price": 52361.58,
+      "change_pct": 0.28,
       "currency": "USD",
       "name": "道琼斯",
       "group": "美股"
     },
     {
       "symbol": "^HSI",
-      "price": 23093.37,
-      "change_pct": 0.69,
+      "price": 23285.7,
+      "change_pct": 0.32,
       "currency": "HKD",
       "name": "恒生指数",
       "group": "亚太"
     },
     {
       "symbol": "000001.SS",
-      "price": 3690.48,
-      "change_pct": 0.89,
+      "price": 3700.15,
+      "change_pct": 0.07,
       "currency": "CNY",
       "name": "上证指数",
       "group": "亚太"
     },
     {
       "symbol": "^N225",
-      "price": 62674.7,
-      "change_pct": -0.03,
+      "price": 63373.0,
+      "change_pct": 1.9,
       "currency": "JPY",
       "name": "日经225",
       "group": "亚太"
     },
     {
       "symbol": "^GDAXI",
-      "price": 25181.65,
-      "change_pct": -0.75,
+      "price": 25410.84,
+      "change_pct": 0.91,
       "currency": "EUR",
       "name": "德国DAX",
       "group": "欧洲"
     },
     {
       "symbol": "^FTSE",
-      "price": 10690.4,
-      "change_pct": -0.32,
+      "price": 10767.3,
+      "change_pct": 0.72,
       "currency": "GBP",
       "name": "英国富时100",
       "group": "欧洲"
     },
     {
       "symbol": "GC=F",
-      "price": 4003.7,
-      "change_pct": -0.1,
+      "price": 4029.6,
+      "change_pct": 0.54,
       "currency": "USD",
       "name": "黄金",
       "group": "商品"
     },
     {
       "symbol": "SI=F",
-      "price": 54.08,
-      "change_pct": 0.68,
+      "price": 54.24,
+      "change_pct": 0.98,
       "currency": "USD",
       "name": "白银",
       "group": "商品"
     },
     {
       "symbol": "CL=F",
-      "price": 101.74,
-      "change_pct": -1.48,
+      "price": 100.81,
+      "change_pct": -2.38,
       "currency": "USD",
       "name": "WTI原油",
       "group": "商品"
     },
     {
       "symbol": "BZ=F",
-      "price": 110.4,
-      "change_pct": -5.41,
+      "price": 109.62,
+      "change_pct": -6.08,
       "currency": "USD",
       "name": "布伦特原油",
       "group": "商品"
     },
     {
       "symbol": "CNY=X",
-      "price": 6.66,
-      "change_pct": -0.26,
+      "price": 6.67,
+      "change_pct": -0.12,
       "currency": "CNY",
       "name": "美元/人民币",
       "group": "外汇"
@@ -108,15 +108,15 @@
     {
       "symbol": "EURUSD=X",
       "price": 1.12,
-      "change_pct": -0.02,
+      "change_pct": -0.42,
       "currency": "USD",
       "name": "欧元/美元",
       "group": "外汇"
     },
     {
       "symbol": "JPY=X",
-      "price": 157.19,
-      "change_pct": 0.45,
+      "price": 157.71,
+      "change_pct": 0.56,
       "currency": "JPY",
       "name": "美元/日元",
       "group": "外汇"
@@ -124,23 +124,23 @@
     {
       "symbol": "^TNX",
       "price": 4.99,
-      "change_pct": 0.71,
+      "change_pct": -0.04,
       "currency": "USD",
       "name": "美10年期国债收益率",
       "group": "债券"
     },
     {
       "symbol": "^VIX",
-      "price": 19.45,
-      "change_pct": 2.21,
+      "price": 18.39,
+      "change_pct": -5.45,
       "currency": "USD",
       "name": "VIX恐慌指数",
       "group": "债券"
     },
     {
       "symbol": "BTC-USD",
-      "price": 79953.66,
-      "change_pct": -1.04,
+      "price": 80136.01,
+      "change_pct": 0.14,
       "currency": "USD",
       "name": "比特币",
       "group": "加密"
