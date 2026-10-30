@@ -1,88 +1,88 @@
 {
-  "updated_at": "2026-10-29T10:03:58+08:00",
+  "updated_at": "2026-10-30T10:22:47+08:00",
   "items": [
     {
-      "title": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
-      "title_zh": "美国股指期货在Alphabet之后下跌，美联储按兵不动：市场结束",
+      "title": "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
+      "title_zh": "亚洲股市承压，避险买盘提振债券：市场总结",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+      "pub_date": "Fri, 30 Oct 2026 01:59:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Big Tech’s Deepening AI Funding Concerns Sink Asian Chip Stocks",
+      "title_zh": "大型科技公司对人工智能融资的担忧加深，导致亚洲芯片股下跌",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZW9Wd25qa1p2TEhzRllwQjQ4NzVmVEJQUEI2MW1tc2dwd0E0VzFxa2tEN0d3WWVJcnNEOGhFR1FVMUtCSlplV0VMczJvUGpJZWJrN1plZUhqSHMyWVFORkZ5UmpCZ29uSlExeEJZSmlrWW1XWHdIeW84aUhLcEV0UHhsU0YxMnZrNW9tLWY0Q0tZTTItZHQ4X25KWk14STBsZ2FvNjdLSWZZLXBzMlJBX0wtSFQ?oc=5",
+      "pub_date": "Fri, 30 Oct 2026 01:22:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook",
+      "title_zh": "个人电脑低迷和供应中断损害前景后英特尔股价暴跌",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaURpSDFJSVlDdjY1d0wtcmQxOVpjYmowVTBSaEZCelVCWGNoVGI2VVR2UWNVcVZDVHVyUjFIMWdvQ0FfQ1dDdkpXWmdKUXRuNG9wVnlJRjNPTzFvcTB1TFV0QjdIVHhUZEZhOHFrdGJfSGNHbF9La09hYVhrempMWm5mTHZWMlJKUElqXzNYbjJKa3ZpZ0dZTE5Kb3JHb212eEtyNUQzNkltOUhnTlVNNWlR?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 22:38:17 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
+      "title_zh": "沃什的“沉默”可能导致美国国债市场出现更大波动",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdFbTR0Tm11V3ZMZkxaYTU0d2NuRW5SYmhHOWFqWjdTOVU2cUhoa3kyLUlTT2tvVXRKaHYwbnVLMkNqa2RUdF9QOEVFeHFEUnJwLXVubUh0VzBIWmZfSnZGbkVaOERxYmRfUzgwT2F6VWFMYk80Rlc4eTF4VEZnMVFuM2ktdm5EQldmVG5Sc3I2WWpaQUpjRnlESUFBdDhlM1F6MU5SU3k3TTVYMWZv?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 19:23:34 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
+      "title_zh": "中国投资者退出，港股失去关键支持者",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU5nUUh0aU4wcVVpU2czZUJNQzdma2N6cE9zLTdQYko3MlAtZzJFMXNtQ2ZMQmd0SkJhd2FjQlpIbEQweEJRZ0VBb3VOdGdjbUJOQWIyU20tOU9vaTNiYXdaeFZjU1d6bENWNmI1S2tVOUtqb01XeHZXb0pFdFZrZDZ1UElCRUhOSG1XUUF6NUk3ck4xYUgyTkhNNGZDaTFCX0NvNlpoYzFNcVFoX3k0Vi1nNA?oc=5",
+      "pub_date": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "BofA Macro Traders Avoid Big Bets After Volatile Market Shakeout",
+      "title_zh": "美国银行宏观交易员在市场动荡后避免大额押注",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ19fSnJnTFJob24wbUVjZzlDZFRuUUVVNXVLUkh2MXBEZm5LUjMtY19OMnF6aDB6aDlOWmNaS182OHh1aWVoUUVOakxkbkxfdTVXWndROGF6bTZDMm9NMWpRSjJ0WEo4YTlCck9CdmF2SnQzaU05blY3Y3MxUTQzbXZ4dVJVaFRmYlBVNTdOaC1jSm5RTklqQmhkaU5UYzJta2dUUHg1cWhsZTNCelJLb3AzakJVQQ?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 14:07:06 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
+      "title_zh": "Coinbase 恢复盈利，同时收入再次下降",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWc0N2VtRG1yakZ2UjdWdkFPWlgxNlVNRTY3VnlvWDQyZlc0Z2d2b09NaldCa2pCMW1aQXhXY0VzeDhmb1Y5enhIcnpyZ21pR2pBWmNKamNjY3phbWlpMlZ2akxQSF9nbkZ1aFduVVltSmtyVGFWVjNGVnpVRVNGaDBVajRyRUxBOTIzSl8zQlplYnRKeE1xZ2duZnNvazMwdzFmZFdSVWNzUWRER01mRU1wMk13Ukt5RWlZ?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 21:11:07 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
+      "title_zh": "Alphabet 销售不佳重燃对人工智能的担忧，美国股指期货下跌",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzA3M2RwNDBGTV9LZmFhMWx1Rk92bXZIVlVaN2lZbU1faC05Q1pSaWU1SWlRdzk1YlFXTzMyV3hTMm5mQlNTRW5KMTFlZlBJdWJZVmVQekdMNU4yd0doMWI0Z2hyZFVxOU5RQUh4Rmd4Qkg5NHhpaXpsQ3RLVDZ6VHFMVzMwRU9iUUt6Rmt1cUQ2LXEwOEF6YUVTa3d0SjBmYW5CbTF1RGdFR21sN1kxUm9R?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 20:28:55 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Why the US Economy Looks Strong But Feels Bad to Many",
+      "title_zh": "为什么美国经济看起来强劲，但许多人却感觉糟糕",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFRwdkJuR0ZnbGs1c1dpb3FBY3N0WXhvZlZ0LUpmU1o0MTVKS3pjVzVRTzhWQ3pzeWFkUmdqajYzbjI2ZDFBTndVNEZSLUNkcDFYUk9UdXRyOXZBR1RFRVM1enNtUlhMOUNQQUEyTUNRSUpVM0NDclFtWG1CRTltOU15Ty1uNml0WlAyN0xUdWtzVWlBclp4VzBnREJQS2ZHRXl0akJfWEU4X1FLNUE?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 21:01:02 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Polymarket Investigates Suspicious Trades on Israel Election",
+      "title_zh": "Polymarket 调查以色列选举中的可疑交易",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcV9LaWo1NnNpY3NxSWU5eFZ0eTE3SWhZa19HeDU0eEx2VlE5cmRIMFBYUnZUS05peU5CSnNIR21Jc3p1cjF0emU0S1RmNWlRaElGdGhaMkh3Ulhheno3RnA1dERiSnZ6akxUMFpsWVB1WnU0eGdZNGVmNmVCVTRLU3JfNVczb2M1ZkpqSHM1eWEzM3BzS3NEUWJYZ0ZJN2dod1BCQkRHNFpiV1FNakNmRm90VQ?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 20:13:59 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Nasdaq 100 Falls 1.5% as AI Trade Shows New Cracks: Markets Wrap",
+      "title_zh": "人工智能交易出现新裂缝，纳斯达克 100 指数下跌 1.5%：市场总结",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5",
-      "pub_date": "Thu, 29 Oct 2026 01:24:00 GMT",
+      "pub_date": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Bloomberg"
     },
     {
-      "title": "Hundreds of Stock Funds Wiped Out in Latin America Market Collapse",
-      "title_zh": "数百只股票基金在拉丁美洲市场崩溃中损失惨重",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVBReHRhZkNvYTJwWk1sWWtacE9lck1iT0ZMX0locmUyN0NoTUtROWRJUXJkMGo5Q1BuTG1BVWZkMnd3WXY5NGl2Q1J2V3p0UW5ocm9GR2xXWlNVMTFxZzJSWHFYejBRZ0pJN05veDk2bHlQeXRFWDFWd0JMU3k1aE1MOUlWY1pYXzhxOU9IVWx5T1o5UEo3Zk42dXVDelBReS1iRHgzT1dOcHo1b25EYy1kVzJadE5TWWhn?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 21:00:03 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Japan Credit Risk Jumps Most Since 2022, Pressuring Bond Market",
-      "title_zh": "日本信用风险自 2022 年以来增幅最大，给债券市场带来压力",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHVUbnZmWGk0c0d4Rlh6aXpPUjJnNFgwR2hpNHZEUDNqZ0pQaWZrSlpBdjJRaHVGdjhoOGI4X1dMMjk1MXRKV21FcVFNb2VJZTR2YnkyZmE2VTQ3M25MbTRzWW1wX1o0N25iWkY1eUpmdk9NUmdsNlBMSXRvRk9ySXFkOUthLXgwVExXQlVkbDBna3NoeGJ0Qzk3cjBia0hLZS1NMHVOaEVxLW5sM2dLbGhnMA?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 22:00:00 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
-      "title_zh": "Alphabet 股价因核心业务销售失误而下跌",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
-      "pub_date": "Thu, 29 Oct 2026 00:19:00 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Star Trader’s Woes Turn Up the Heat on Riskiest Debt in Europe",
-      "title_zh": "明星交易员的困境加剧了欧洲风险最高债务的热度",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3lqWUZheFR4SGlYQlAyT1VTN0kzVVBpTXBDbGxxMTJ3N1FxU0lucm5zaVAtdVNlZGMxTmFTak51MmZucHJJUGlSQWlmN2xFTWtjOW5WRkhyTkFGLVpJaVNSSXZPbllBMWttTzBJWlFpSDJqeERndjdLR0d4U194SmhpWmZGNWZ5N0lOaUZRaXNjVlV4NW1WNGVkQWdxb0hRd2FKaGJ6UFhIR19jaWFITG5KMzduRlNkalNES0xDLW52c1pp?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 17:38:32 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
-      "title_zh": "交易商解析伊朗新外交迹象，油价下跌",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWhmOUJoc0lkWEs5QlBSaDVpMjd4QlRILTVyTmk4dlRNU1FNRE0tS0N2NHdQZFZGQjZxZjlSOFVwSGhaQVhrUmJrb1JySXlhZDctVHdqMUIyU0gtUnFENDdoRkh4QnlxR1pfeGxMMU1UUWJydnhxSFJ1d3djdjZYQ1ZUcUxZMVBEVFFwaWN6VkhKYnNtMTdBWk4ycjJSaEczeXhONWtaN3ZXUjFZNW1aS3NMVQ?oc=5",
-      "pub_date": "Thu, 29 Oct 2026 00:18:00 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Investors Jolted by Lula Win Search for Bottom After Brazil Rout",
-      "title_zh": "受卢拉震撼的投资者在巴西溃败后寻找底部",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1l6emZySnpsYk5UVVVwUXR6MWlMZURFSGpsNEs2SzBTMThPcHBfN2Mxd2R2U2djaWt2eV9uRmx1ZkVLaXpFU29ianNXUnJsTzh0NTg2UE9XMlpQVTRtVGpEWDhPUExOZzZfNmh4SGNwWVpERlpGSERFelVBTjJvQlpaOWZ1ZGxvX01ibjVWZzNvMkdGSDBxQm10VkM4d2NmZENHcWhxOGF3Uy0tRGF5VGVNSmhSUQ?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 20:39:11 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
-      "title_zh": "沃什暗示美联储会议减少后美国短期收益率下跌",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 21:39:20 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Kalshi CEO Eyes Guardrails After Studies Detail Customer Losses",
-      "title_zh": "Kalshi 首席执行官在详细研究客户流失情况后关注护栏",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVBsN0s3NmlYdVJ2SVhiSFo5Y3JFNTc1UU1MdTE5eFM5VTR4VE5yVzh5Qmc4d1M2YnNNZGIxeVVHejR2cHZPdVo4RGtZRDhMVmM0QXhXOTV6MVVCeV9SWC16WTg5bzRrQ3Q3WnBYaHdTOFJIZzV0Rk9PUVB5VURQTGVmeFJScE0weTdlNEVWQVZUMy1NWURnUGxmSlFxUG5MRkl5NjUwblZRUVRQS245M2lHWlc?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 12:35:22 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Brazil Exposed the Deficiencies of Prediction Markets",
-      "title_zh": "巴西暴露了预测市场的缺陷",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2Y5ejFhZnhCR3Zzb084dGpxU1QtdXlUTk55MlVDQXlaMFd1YWdKWThxLUR1M19CakhIV2VFSUwyVkFod1kxREtsYUNqck5OalJyOG5VajRJWWNjcUJoTHZ5MmdhaTFNOVJpZFRobXBLeS1ZeVN1Y3FYVXYyd2pyUXdXZXB4bGpTdFp1ellTa1V4ZlB3R2hXUjQxdGlSNmRsU0NaVFU1SThiRWhmU0tQOWt3?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 09:00:00 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
-      "title_zh": "人工智能借贷热潮推动全球债券销售打破纪录",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXd1dnM3SFp0WV9yTDlpNm9abU9WMG9EU1BRdU5FVUhUYW5VbzNKN21FR3V3amZrT2psazEwN3hlcUFGUGQ4dUNLQkRReV84SEdlUUIzTHRrYkdNQVJlV1JwUE0zNTZfX0d6YTdaVG42MnYxMndpcFdOeGlOMlZEQVp4RVlKUEg0cEtNcjE5VVE4Nk9qRGVnOEJTdkhiTVVNSkdCczJHajFFNld3Umc0M2Rn?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 20:17:00 GMT",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Not Your Keys, Not Your DAT",
-      "title_zh": "不是您的钥匙，也不是您的 DAT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGtvdmdzbDdqN3FaZkhfNFZoRzdnZG1Ca3JSQjNOd2pyWE1CaXU0bHpyc2FvbWQ0c2hHYkF2Z2Vkc3I1VS1UalFtTEhjWnlWZzBhNzctUzJGRkJ2bGRlQlpFSXNkOElpcUxfNjBzZnZSWDh1RXIzenVuNDl4LU9ZV0laM3EwUzl3cXRJ?oc=5",
-      "pub_date": "Wed, 28 Oct 2026 00:56:16 GMT",
+      "title": "Indonesia’s Wealth Fund CIO Owns Stake in Sanctioned Brokerage",
+      "title_zh": "印度尼西亚财富基金首席信息官持有受制裁经纪公司的股份",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVNCdFFCV0dPeXFKZjFoaUJyOWp0cERVb2dXbU8yR0VDMmFOaHM5VVVxOUVzMTRNeW9IeENRXzdRMl9SdmNaNl9oNTlnQldxb1dOc2pIUnN5bktza0MtTnNuMW0yeGZjSnNGZF9uUktuaTNwU2ZzalRJRTFfWnhJd09xUTJnbXpOblpBcmJBM2JXdGJBRVJEb1d0RFNhc1dTY3lNMHktRkV0RnVMRDQ4MHVUMA?oc=5",
+      "pub_date": "Thu, 29 Oct 2026 02:30:00 GMT",
       "source": "Bloomberg"
     }
   ]
