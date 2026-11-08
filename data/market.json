@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:30:29+08:00",
+  "updated_at": "2026-11-08T10:00:23+08:00",
   "items": [
     {
       "symbol": "^GSPC",
@@ -11,7 +11,7 @@
     },
     {
       "symbol": "^IXIC",
-      "price": 24579.42,
+      "price": 24579.43,
       "change_pct": 1.09,
       "currency": "USD",
       "name": "纳斯达克",
@@ -67,40 +67,40 @@
     },
     {
       "symbol": "GC=F",
-      "price": 4079.5,
-      "change_pct": -0.83,
+      "price": 4074.9,
+      "change_pct": -0.94,
       "currency": "USD",
       "name": "黄金",
       "group": "商品"
     },
     {
       "symbol": "SI=F",
-      "price": 51.97,
-      "change_pct": -0.51,
+      "price": 51.8,
+      "change_pct": -0.82,
       "currency": "USD",
       "name": "白银",
       "group": "商品"
     },
     {
       "symbol": "CL=F",
-      "price": 90.34,
-      "change_pct": -0.2,
+      "price": 90.83,
+      "change_pct": 0.34,
       "currency": "USD",
       "name": "WTI原油",
       "group": "商品"
     },
     {
       "symbol": "BZ=F",
-      "price": 97.76,
-      "change_pct": -0.54,
+      "price": 98.32,
+      "change_pct": 0.03,
       "currency": "USD",
       "name": "布伦特原油",
       "group": "商品"
     },
     {
       "symbol": "CNY=X",
-      "price": 6.69,
-      "change_pct": 0.22,
+      "price": 6.66,
+      "change_pct": -0.35,
       "currency": "CNY",
       "name": "美元/人民币",
       "group": "外汇"
@@ -115,8 +115,8 @@
     },
     {
       "symbol": "JPY=X",
-      "price": 157.5,
-      "change_pct": -0.54,
+      "price": 158.43,
+      "change_pct": 0.59,
       "currency": "JPY",
       "name": "美元/日元",
       "group": "外汇"
@@ -139,8 +139,8 @@
     },
     {
       "symbol": "BTC-USD",
-      "price": 75948.27,
-      "change_pct": 0.01,
+      "price": 75633.16,
+      "change_pct": -0.15,
       "currency": "USD",
       "name": "比特币",
       "group": "加密"
