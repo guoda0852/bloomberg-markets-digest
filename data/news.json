@@ -1,88 +1,88 @@
 {
-  "updated_at": "2026-11-12T11:33:48+08:00",
+  "updated_at": "2026-11-13T11:06:23+08:00",
   "items": [
     {
-      "title": "Asian Stocks Set to Gain on Renewed US Tech Rally: Markets Wrap",
-      "title_zh": "受美国科技股行情回暖的推动，亚洲股市有望上涨：市场综述",
+      "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap",
+      "title_zh": "亚洲股市受英伟达和油价影响，开盘谨慎：市场综述",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 01:59:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "New World Suspends Trading as Investors Watch for Next Steps",
+      "title_zh": "新世界暂停交易，投资者观望后续举措",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTVSRUljVElzdjNTalR1NVY0Y042MFp0VTdrSmxxSkRvOS14NVUyYURJYV9DU212LXZtckVkd2JZV2NrV3MtVWFZbTdJYmVqd1V0aEZIODVsZlhYMHMtX01lOS1tcmE4QXI3N25mR1lPSnlMcDZVVzhVRjZPdi1KQVlrSE52cnNIX1pNa2kzTEY3UGU1V1k2LUJyc1lCRWdDelp1V3E0YmE1Y3FVY0dTeQ?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 00:57:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Nvidia Market Value Sinks Below $4 Trillion After Huang Resigns",
+      "title_zh": "黄仁勋辞职后，英伟达市值跌破 4 万亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWFON3FvTk1xdktjdmFmcmtGNTk0UFpOTXpHZFZEVmpTQzRmVTBlVFRpSjVNNzVlRHhNUVhvM1ZXVjN3SGlYamtfRVdqU3pZZEtpX1lsN2dMT202dkd0akVHdzF6WUNpdE1BMXN1OFlSaXJ0TDk1bURIbkRVVXNBMnZQd1VKajFybWdmRTV3Qk9DYVhqREdXQ3R4LVdCTi1oYW9ncUt3VTZRNmtoeGhSZWlYSQ?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 14:37:27 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
+      "title_zh": "随着加息押注增加，黄金价格跌至近一年低点",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3F2NGZ0c25jVUdYLU1WVFUydUJtUHQwWm9uTHlQbG10SHFHLUpZUndrUzZNR2ZwRFBqMUdKNDQ4NmlnY0dDS2hjR3hkenpsZlo1Q3Q2Q21pV3c4dDRFNmdSTnJPejNNR191a1RxVFd5dDNIYkhrb20wcWRRREFCTHFlOXJ1cXZGRlFLRC0ybWNyS0sxODJoWTBBVlFCZDM3S0tSdm9BREUzSVZnQzRiOXc5OXY?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 23:58:45 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Anthropic’s IPO Is About Six Times Oversubscribed",
+      "title_zh": "Anthropic的IPO超额认购约六倍",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxnOC1MRXVQbUJwaDdiSDE3TzdIbVRyYU5qWnF5YzkycUVPTXV0bUhOWEIzWU1xejMyQXJxaGtHT2dQbk1iTExkc29hYjBpQWRsY3RTaEtsTVhVaFJjOHl5aW5nb0dDYzRwcWxjVXpkbWw1bU5lSFhwVHo4aGw4bHJZYlNZTUVoN2VwYnhBWmNDNURMbXNmN2FvaEVONS1CVG1MY004MzdMbTRJd1E2eQ?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 21:00:14 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Silver Market Set for Deficit Even as Solar Makers Cut Back",
+      "title_zh": "即使太阳能制造商削减产量，银市仍将出现供应短缺",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkNjVWVrTEZ4dmVLN0ZldTRxMmRGWjE1dTlrMTJiMC1scDB2ekxYOXdKMy1vU2VwMElwTEprQUx3NFdPekJpUVIyWFdpeDloMllJYWxydDlqR1d0NDVaeUpEcWVmVGpHTC1hTnU1Vm5Fak42QXRLa1E2ZkEyRVBJd3pUbXVYX3lhaWlXNTFvQkpCakpJbGxiMGQ1dWxucFphTTlKa0Q1NnQxYW5uZmJR?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 00:30:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Kalshi in Talks For New Funding Round at $65 Billion Valuation",
+      "title_zh": "Kalshi正在洽谈新一轮融资，估值达650亿美元",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1k4NXV6N0ZtQmlYbDNWbW42QmZFb3RST2J2TGFFeEp3U3Z5bmtpU09vb0dDcHBnOTNLZkhzRHRyUUFVbE0wTVhrVTE1bnktWkV0bmxZWXViUTd1N0JqTTRHM2xfYVgzUG81ZjlQNlpPak5NWFd6QmlnQU1nQmtSZ0s1elpwWVBLUGJoZlZ6WE9mMm1LR2Z2aFhMQ05GSnhEemNzYXVFR0tldzdtLU1MTFdB?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 20:28:15 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Sales of Existing US Homes Tumble to Lowest Level Since 2010",
+      "title_zh": "美国现有房屋销售额降至2010年以来的最低水平",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJUWHJCWHNlZEFGRFlpMXkzeWxNeDBraDBxNm9RLVFWX0s0bDdMZTI3WS15eGwxbXh1WFdrSFYxNkRYbnBuOWppNmJsTXR5ZTJXNmIyRHZ3SFBWbmdfb0Z0SnBSMUZ1dVpyX2ZJRTc4UjBfTTdWdkNnM0xUZGYxek45QTB0OC1LWW5vN3VGd0xfMVExUDRWQ1RIWkVFTFF1ZTcwUk0zdTRiM1dnUUtjSQ?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 15:43:56 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Wild Price Swings Expose Stress in Hong Kong Stocks, Study Shows",
+      "title_zh": "研究表明，剧烈的股价波动暴露了香港股市的压力",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmxXOF9NaHN3SDZiRFlnWktabnRxaDlWWEtrQkswWVByMFNndTNlbFRraDY1WDdVUmlDRE9xMWZUZ0c1M3pqVkN1WHJHVHVJZ1VhSVd0STRLT2FZa01GVzVLZjV5S2RmMTN1eG94ZmxOVG9WYy1zWGM3c1hQUkV1T3hEOGw4RnBfdHgyVTZTeVBfeWM4S0hSZ3pyazBwZGxPanBRbUtHSE1uaGV5S3Bxeld1djY?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 23:30:00 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Stocks Slide on Nvidia Troubles, Oil Edges Lower: Markets Wrap",
+      "title_zh": "英伟达遭遇困境导致股市下跌，油价小幅走低：市场综述",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmF2Z05ObnRwSVdvWGJrWC1XZlIzVXlYMTV3eVRwQWlScGY3TGpuamVOTEpremJZQnhJU3hkOWl2ck4xNFdzQWM1VTh2OEVBQ3FCTzNiYThfOTlzSHpqX0hHeWQ3dzZTcnRsVzYtMzFWeElmZVdVWUdQcnhIbEp1SS1lejVoM2Y1OGdScGpLbzJPVWhk?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 01:41:00 GMT",
+      "pub_date": "Thu, 12 Nov 2026 21:45:23 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike",
-      "title_zh": "随着市场展望美联储加息，黄金价格维持在 4,000 美元以下",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 01:24:00 GMT",
+      "title": "Japan’s Katayama Warns of FX Steps After One-Sided, Rapid Moves",
+      "title_zh": "日本的片山警告称，在单边、快速的走势之后，将采取外汇干预措施",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTJzZWRDWXl2TXAzUWd4VHRZTFBNSFRKa1g1Qm9LNE9Tcmh3bnNfT3VvaFVPd0VDSkVHX2V3bWtUWnA5MkU0WlJLdE5WTmxvcmJ0NUlGYlNZcWVkMXZHVjlUeU1QTy13ejN4WUVRXzN1UEZXaEw2NWozX1h4VEM1RmNJX3Z4T0xUWWU1alhPWGo0cEVjVm9mazZSV1IxOXhfbFRqMFdTNmxUUjRoWHdqcXd1Yw?oc=5",
+      "pub_date": "Fri, 13 Nov 2026 01:26:00 GMT",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
-      "title_zh": "Anthropic的IPO是支撑下一轮人工智能交易的“叠叠乐积木”",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 00:45:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia Tumbles as Investors Consider Future Without CEO Huang",
-      "title_zh": "随着投资者考虑没有黄仁勋担任首席执行官的未来，英伟达股价暴跌",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWt2M09CMmZEV2FtdDlsblRCTGFFZDZfcWNtSjdGQndIUlR1ajhVcFJGcTJuSzhQYzZsM0FyODI1dE9PaFR4TXU4dS10OERzWFhoSFhSeU8wNFh5RWgyNjM5QnRDVS1pZ2pHNUhseGVuUjdCTjJoajRQZjlmbzNkbkFscGFvTHRsV04zcldlcU5USkcyeExYemUwVkREeXR2SDdEWWNmOEhQeDREblduQlF3?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 01:35:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Trump Stablecoin Scrubbed From UAE-Linked Prediction Market Site",
-      "title_zh": "与阿联酋有关的预测市场网站删除了特朗普稳定币",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1lpYUxicjlnZU90YzZSQlF4VmRSNDFxdHFIN1FJQWx5SDluTHZEWEhPS0Z1NVc4VkY3Rk1rTEltQmo5UzhYMXR0Ymw1aEwtT3VjU1p4REthRmJkQ0NjUm9CN1lxeTdqLUZycG95dWNZczI1cFU1b1dlOTFQU0J3TEw4djZ4NFNvdW5hZUtNZ2xTQnJ0c2FLUmcwQy1FR2RVc0JjTlJPby1ZMGdBZFNaQzZuYi1aUQ?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 17:20:48 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
-      "title_zh": "随着市场预期美联储将进一步加息，美国国债期货回落",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 16:31:45 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
-      "title_zh": "据称，Anthropic的IPO获得了数倍超额认购",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGtLeG5WQUVLcHhzM3Y1YUFGamt6TFVZYzZJc1JaSEpNNHcwaTJqaGxXdjF5bm9MWnVrWmNadTlyLUZ1cjVCSmVUeUhsOEZLWnBRbnN6X0tqYmRfdGMzakdrWmdOeGNHR01kc0dlTm9tQ0hLLS1lQWt4ZWYyMllYNG9TYWFVTnpPUzFwYlE4ODBRNkVmZ0FRc2kwWGRISHAyQ2l6VlRXMDZLRGhGUmVSMHE2OGZKUQ?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 14:41:42 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Long US Bonds Reopen With Gains as Risk Sentiment Sours Again",
-      "title_zh": "随着风险情绪再次恶化，美国长期债券重新上涨",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkkzMlRSWlpLdG9EMVRuX2RSVTZJYy1MWUtGS0Rmbjh1MUh3SXV3M2dQN05TRXNwc2hkM3U5RndCWkRRWWo4NERGYnpuRzFtR3JNQmZTVkd0WUxWbzB1M3ZnTllkdk1vdndwX1l0MlpjZFRLcmNlc3FacUxULUUyRFdyVjJFd2E0dXpna196WEc4RGdjSTdlRTRfZDNHVzVGWjRjZnVuQkw3S1FlYTVrbjBn?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 01:15:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In",
-      "title_zh": "随着对人工智能的担忧缓解吸引抄底买家，纳斯达克100指数上涨3%",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWhFb0Z4UU5tNk9GTTVCYW9hallXVDZiRkhNMjFubzVVbmt1RXY4ekdtSFdZSTV4cEhqYkNrMlM0TW9keklFMHBOUDVzTTNhNXhJX2ZuVWRjSTFheURwb1NlU1F5b3Q0SXJWaGdzMzlEZHE5N3UzeE5jSzJIbkpoc2tqdkNKZG0zczBSYndTNm5GUFVUeEM1OHB2LUlnRktreFhueUxleGRwTWp0S1RZcWFQRQ?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 21:34:58 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors",
-      "title_zh": "H&R 47 亿美元的拆分计划面临主要投资者的反对",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQy1rNTlMTV9BNXdJUm91aFoyVG5saXF3Zy01WmRRMHhPemUtMjJnX2Z4RG9neTZNYUZBZDJMRlRLc1k1UEl2ZXpod3djS1dkNHk2TkRBMFZsNzFhOUowemJ1Y1loV01DT3NZMFJvZTBDSEJBVzZYajZCMWhuMzRrYk9wcEtyUm1PYXYtb0F4dFUyTDdvSUJvTjBBMnlsUWlYYmNKMnlrSF9pdlN3?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 19:22:58 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Losses From Reselling NZ Homes Hit Highest Rate in 14 Years",
-      "title_zh": "新西兰房屋转售亏损率创14年来新高",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHRQb0lDMGNpXzU0NmsxZGxxSHEwVXdZS1N2NnF2RXdLa1ctdkEwbEs4R0dLc20wbnBGNmtDRG5oQ3VEWG80c3BaXzZjLTh2SXNzTlM3OVpRN0ZQV1JnamQxeFhRYWRNNE52ME1GeGdnclZCUlpvSnFfazh5YUw0TUh3a08wU1JWcmFIOTdyRlNMa1AzU0JacjRBM0R1cG5SMnBneHdSX2c5N1dublpz?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 18:00:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nuclear Revival Spurs CME to Move Ahead on Physical Uranium Contracts",
-      "title_zh": "核能复苏促使CME推进实物铀合约",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkNIei16TnVKclgtaDlidndQRHdHU2pRbGFUWlZRbEtuajhqa2gwZWRIODJ5OVcxRDdRZUkzOEUxa00zaFc0TVpjWnVGSHhfUW1UYnNTWEM2dnY0UW9Ra0pfaWliN2MydC1FMkJxdm05SnppSWw4YnRObWJEVFhYdndEYVNiNFM0XzlPS1liVlpJeExfNzFlSlNSNFk3X2p6REJuMUlKdFV3RldlcW1JN051WHlUUE1fbmNITTBqeW5KUQ?oc=5",
-      "pub_date": "Wed, 11 Nov 2026 19:17:17 GMT",
+      "title": "AI ‘Supply Shock’ Pushes Bond Market to Limit, Wells Fargo Says",
+      "title_zh": "富国银行表示，人工智能“供应冲击”将债券市场推至极限",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2dtR2NhUWhhUFZadTJWVEMydFNlQWZHZGYxa3UwNnd4b0l0cnA4VG1oQzgtUDRyWW9URkVjTXZfdllPM21ORjVYWG9DbVhzdkg2RnlxMFNmNmNtbERfTVdkTjhsVEN0NndKcThHZmNOLTlITlRLTTFZQjdGT1A4NHR1RVQyREVheTYzZmw5WDJoRVZrR1RNczZzNVFBMlVGNUY1cTAwOHJ4Q3J2TXVMaQ?oc=5",
+      "pub_date": "Thu, 12 Nov 2026 19:45:59 GMT",
       "source": "Bloomberg.com"
     }
   ]
