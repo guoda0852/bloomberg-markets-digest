@@ -1,89 +1,89 @@
 {
-  "updated_at": "2026-11-14T10:52:59+08:00",
+  "updated_at": "2026-11-16T10:32:33+08:00",
   "items": [
     {
-      "title": "FAA Grounds Flights Across US Until Further Notice",
-      "title_zh": "美国联邦航空管理局 (FAA) 停飞全美航班，直至另行通知",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVpNOE11WFV6SC0wZVdHcE1sRjRGRTVnQXZvREpJNVViemFhOXVaS1JUX0IwcFRucl9iMDFUX0hVMXJyeGx3LWdKRmowazFyZEV0ajFZdnlpT2EyOWVRZC1LWll3OXhuVWVnZHBXMWhhX3EtNWlFMWNxT2xiOUlzY3dEREVTTlNaelI2QkQyUjdHV2JpSjhnV0JtNlE0VlJfdDg4?oc=5",
-      "pub_date": "Sat, 14 Nov 2026 01:10:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Bitcoin’s Billion-Dollar Wipeouts Are Becoming a Familiar Sight",
-      "title_zh": "比特币数十亿美元的损失正在成为常见的景象",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 19:24:32 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Barclays Trading Desk Turns Bullish for First Time Since March",
-      "title_zh": "巴克莱交易台自三月份以来首次转为看涨",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFRRSzNWamhkM19Ydk5sNkk1WWZxNXMtZkZVR0JlVXFnMHBSN29BVmFEeWtWT0U2VWlzemVXM0NmYXIyUEk4a3A0VXZDLVJocTI3RWVpR05vU3V0QmVGWkpZWkd0Y2ZrTUdTU1hNZVVPWkFSdV93QVBWYmM3YW9wbG1xQVNXaGlPZWhuTFoxUlhHQXI0YzZHT3pZcVBsRjUxekh5am5LcHB6Sk5zTnNtcWthdw?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 19:36:01 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
-      "title_zh": "美国期货因微软停电而上涨，生产者价格成为焦点",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 21:40:05 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Microsoft Outage Sends Traders Back to Phones and Fax",
-      "title_zh": "微软宕机让交易者重新使用电话和传真",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRrc2phRjRxQzA1Q2h0QWMwZXNqT3VSd1hTWHVTT0w3alpOODhxM1FvYy1KYlhpUjE5V2N1aERhU2VNbkVLMktXcGgxeFVhempSYkdPWG9JbUdmNFBIYjVtWDBBY3h6eENWNVU0UjRjUWNnS3BpTks4TEQ5MFpVRzY3R2drTm1BeXJXMjQxVUxSUWZSbkZtUTRjSTRSZXkwX1hnMnkzd2hTVU5GZEVJSXV3?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 12:02:59 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations",
-      "title_zh": "高盛预计标普 500 指数将因超大规模估值便宜而上涨 14%",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakdLNVhSNXAzRzFLTTNSWEpNV3RtUmJBSU45UklYcE0tSHJ4ZVpHbi1RQWFhem9IV1RkV3BlNFlTZ1FMVmhmVnp0X2pHaTBUUUZhakZGQ0prQ2F1ZmVKNDA1SmlvaDZtc2NVcHRRa2hFcGNNWVdheVgwSHhvZm82YTlrYnlnTzdqRGMtYUVJSkJVdWVNc2xYNGZFaGtqU3pZNW9JZGVlaTZNSjZTSktxU3dROA?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 10:14:15 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
-      "title_zh": "随着流动性危机加深，陷入困境的谢里特错过了付款",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3oyYk5sdThqaGQwQWhGU1ZoWkFRR0NVallBS3VaaWVKLUtYVDVfSU1YNWtnTkJMQ0dFZnVKS0hicDlqLTEtd05veG02eEZqeU5kbWpmeUg1bl93MnlzWWdPTzdoV201SGF0WmNDM3JGUEkzcXJQZjVuR2lsYWxOSXFobUNrdEtlOVk1R2xmZjhsTDltOHVsY3FYZE02SmxSM3k4aUFseHY1bTE5Y0FGYg?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 23:39:03 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap",
-      "title_zh": "美联储押注通胀测试前美股走势：市场休整",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
-      "title_zh": "投资者警告债券溃败在一周收益率飙升后尚未结束",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjhkdkdUYk85b1djY25EQk9aY3VBUmdlZGVpS251di03VTMzaDRvVHIzbEZBcjZSSlNvMDNXdXFNX3A0QTB6TFBXRndSdFFyNXBwMXRtRmZIcVJySzVXaEZDQ25HN0ZDOGZtbkpibUZ3UDZPUWpiVWVLMU1hVzk3X3JwQ2NxVXo3WkVWMnhqandnNUg0UjlnUUNSTkUwYjFLd3ZBeEFBel9yT2h5WVRObU0zYw?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 21:43:32 GMT",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-      "title_zh": "美联储认为与资产价格上涨相关的风险部分是由人工智能驱动的",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjhJdzBDdFpRc3VSX0ZSNFV1SFRJS2JhYXpKMlU5Mm1ZNEVsN2o1Mno3TkNrQ2lBYlVoOVdsUVZJS2JDVUhCLXdyMG1tNG1ldGFLV0dqUWZxMzJWWWxYaDUzYWdiWXJILUxNdnlEOFgtWWI0V0s2VVFmMmxPZm5vekpwM1BBZlVGZDYyd2E3OW5lNVZWOF9MY05MdmtFb2gxRVQxN2FCZVh6djhXSG5uS3d4Y3VyQQ?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 21:00:00 GMT",
+      "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
+      "title_zh": "亚洲股市为人工智能压力和数据倾销做好准备：市场综述",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+      "pub_date": "Mon, 16 Nov 2026 01:20:00 GMT",
       "source": "Bloomberg"
     },
     {
-      "title": "Barclays to Cut About 200 Jobs in Its Investment Bank",
-      "title_zh": "巴克莱银行将在其投资银行裁员约200人",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2ROdUZfTkZQYjhudll3Zmpnb2dDenJfRlJ1UU9yakNfZVBNVmxwem5UWkxjRXNFRlZuUk83blZWWnYwVDNGaHFYUVZob296QXE1aVFTdXowY01FRkpJU2xrNXVScDYyRE94NVZ1OWZ4UmRrMzFnUWhZdmkwRWtfZ3VpbXZWVkQ1bHcyZnNIVEhXZ0VlZ2JiZ1dieC16R2FoTk41M0s1YWlxR181?oc=5",
-      "pub_date": "Fri, 13 Nov 2026 18:13:15 GMT",
-      "source": "Bloomberg.com"
+      "title": "Jensen Huang Comeback Report Primes Nvidia Shares for a Bounce",
+      "title_zh": "Jensen Huang回归报告为英伟达股价反弹做好准备",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFZxVFh3T0hqYnIySTZ0RzRNR0FWN3FkNWxMN2NTbDI5RjlNLUo4Z05mZFEwbzR2YW52bGdzdTZjWEJEM2JvQ01Bd2ZrYXNBa0E2c1Z3SWJSQ1ZIdVZXSEJyTXo3SXVFMXZRZEFSM0xSMHJoSDJPWG9qX2xIeHpLYThFWURtaFRwVC1OU2dKUUR1Wmd5ZnhYQ21FZ3l1N2RuSzJ5cmpQSmpPQUV5S29aUngtUjB6QQ?oc=5",
+      "pub_date": "Mon, 16 Nov 2026 01:36:00 GMT",
+      "source": "Bloomberg"
     },
     {
-      "title": "Anthropic’s IPO Is About Six Times Oversubscribed",
-      "title_zh": "Anthropic 的 IPO 超额认购约六倍",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxnOC1MRXVQbUJwaDdiSDE3TzdIbVRyYU5qWnF5YzkycUVPTXV0bUhOWEIzWU1xejMyQXJxaGtHT2dQbk1iTExkc29hYjBpQWRsY3RTaEtsTVhVaFJjOHl5aW5nb0dDYzRwcWxjVXpkbWw1bU5lSFhwVHo4aGw4bHJZYlNZTUVoN2VwYnhBWmNDNURMbXNmN2FvaEVONS1CVG1MY004MzdMbTRJd1E2eQ?oc=5",
-      "pub_date": "Thu, 12 Nov 2026 21:00:14 GMT",
-      "source": "Bloomberg.com"
+      "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
+      "title_zh": "受挫的债券交易员正关注美联储的讲话和会议纪要，以寻找下一次行动的线索",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 20:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+      "title_zh": "随着对杠杆的担忧加剧，交易者转向Nvidia和SpaceX的Kalshi股票“永续合约”",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHJfMWl2cGJEWEdGdlFscGZsUkxPNGRiMFF6NmhMSWprWUhLUWZSbzZycHlrcUpLbHE3X1FkZ29XeHZtc09pQ2NpS1FYcDhTU0IyM3pZZFVGdjdSNzFMLUNwV1RQdnc1RktpeWFIQXd1ak9BT0ZIaDJHVmN4SldVN1ZBeDNySWpZbXFfWDBUTTBKaFFrdEdHQnBnTFlwcXVJY1VOejE5N3pxaTAwMW5nOGhvb0puWjRIMDQzNnJ3NFRGbm9HZXdKSQ?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
+      "title_zh": "新兴市场债券荒推高价格，销售额暴跌41%",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm16MVNnOTJvY2hpMU1mbmlVMDhfLWNoSjI1Q0hPLUdvU2hkSF9QVzBmMkZ2UmNYcTdHS3p5dDE3NWxzVlpsd0tCVlhOTUlQaEFzaC1JWTg0N0R0cFNFVWxPYVBMOUZjWUc1N243WlY5RWlJTVNxWWV2VVhBV2dUczVucXpQbm5BZVl2alptOEVwTVNmRzJqLUQwb01HVlJuXzdEclQ1MkR6QXRYNGZ5enljd0U?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 12:30:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+      "title_zh": "高盛与摩根士丹利对日元走势的看法分歧，原因是影响因素各不相同",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEpuRmtMVWlXcnVQbmY5dUo4MVhUaWFSaDVPY0xEZlNnUVBqTXI4OHVyRHdPakdFWHJPUDROVF9MVGFxMXduLWdOWkVxTHVuNXpyQm9TSnlqMW13X0JNYUN2RzRpSFZBUDhTZUk4dGp1eGhaRFc2ZzlRYWlsTFhoS2ZXdWhLN3pLbWtRZ1JrM2NXMXZ3bHJ4WWowNXhHRGc4OG9GZzRjS1NCb2tSZVpVejFjTTg?oc=5",
+      "pub_date": "Mon, 16 Nov 2026 00:18:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+      "title_zh": "道富银行、Pictet看好欧洲股市反弹",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMV9OTzctbzluVS1TekxzVnM1UlRVYmFzV0l6aWt5NW1xcDRoQzRvNW4xTGxzTWZLeF9rVDkzbWJITUJNU2Q2SHJ4ZHZHdG1UNEw0X25GN0c0VEhQVllvVDk3bXZvSENDVnYyeUhXSWZlSlE2YXJ3d0dKeG5CajY3RHRDcE02bnM5RVBRTXJ4dXZfWnNjR1N0azdsT2ZtV1RnV3Q2UWZMTVBDVEVyVy1ZZA?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
+      "title_zh": "散户抛售越南股票，转向近10%的银行存款利率",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmJTSU0yOF81bmI0cXZEbTJsaU9IN29iS09hSTczdEdpX08xdzFpb2ExREYxdk1JZDdJTE9xNERHWEYtX0RaNTJNOThBMDBuSm5DQ2ktY2hRNzlQSHZ2SzhQbTFKUEM1VnZNTGEtOHFobU5XdXozUWh4X0dadFR1ZlRxVnR0Mmk2bkFKUjI5ZmJlSWdIZ19qLVNlUFJjYWNuNjk2U3YtY1FKMlNVZXBJcjczMnA?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+      "title_zh": "加密货币的缓慢抛售让交易者感到疲惫和绝望",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkNtd29JSVN3NktDZF9RamdWQlQySzg4UzBEUFZkeWkxY2JINnFlZEFyMHd1c1FoSEsxcjZEN3F5V2R4WlZ6djdQQllXNDNqVWo1SnZWTlNpY3Ywb2w3QVNuTlI3UzdtUFg2RWFUYnktM3VRWFJUSWY0a1BIYUdxc19HVnk2ZGZxY2t3UXdEeGpqY0lhclFZVXhFN01vUXFxcFZ5b2E5WmxYX1lXSnJWMnprTQ?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 23:25:09 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
+      "title_zh": "受采矿业和农业低迷影响，秘鲁经济意外放缓",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVhockkzRFRGOVVORHBoeUJLMXhkUkZ4WFhtWE1DQ2d3enBEZ3dVUm1MNnRaNDNBQWJZOV9ZUGtXVGxyblJsdFR4RkZraDk0aHFWWURZSU5VU2JVZHBTRGQxcTg2NDVHQkQwMW1ScjdCczJfQVVTeXB2U2FGU181ZmJwclMtRVR4Q1htSnJ1QUM1dDAweWctSjlyOHdtcmxucDNHOG45VEdZdzgz?oc=5",
+      "pub_date": "Sun, 15 Nov 2026 16:28:13 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+      "title_zh": "丰厚6%的收益率在英伟达风波后更具吸引力：《信贷周报》",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
+      "pub_date": "Sat, 14 Nov 2026 20:00:00 GMT",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+      "title_zh": "随着马斯克提出与特斯拉合并的建议，SpaceX的标普500指数上市计划重获生机",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
+      "pub_date": "Sat, 14 Nov 2026 14:00:00 GMT",
+      "source": "Bloomberg"
     }
   ]
 }
